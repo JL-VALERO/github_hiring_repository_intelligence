@@ -1,0 +1,39 @@
+# Claude Code internal files
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Model binary — 255 MB, exceeds GitHub 100 MB limit
+models/trained_models/model.safetensors
+
+# Training checkpoints (large intermediate files)
+models/trained_models/checkpoints/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Scratch / notes
+Steps.txt

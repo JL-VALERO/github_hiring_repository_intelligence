@@ -1,0 +1,131 @@
+label,repo_id,full_name,description,language,topics,stars,forks,open_issues,contributor_count,size_kb,is_fork,is_archived,last_commit_days_ago,repo_age_days,has_readme,readme_size_bytes,has_docker,has_requirements,has_tests_folder,has_ci_cd,root_file_count
+intern,1241869416,huseynalimehdiyev/holbertonschool-web_back_end,,Python,,0,0,0,1,25,False,False,0,9,True,6,False,False,False,False,4
+intern,1251382049,md17ll/goldpywoz,,Python,,0,0,0,1,38,False,False,0,0,False,0,False,True,False,False,6
+intern,1239793891,liu183/my-gallery-scraper,GitHub Actions image gallery scraper with Feishu notifier,Python,,0,0,0,2,264,False,False,0,12,True,5292,False,True,False,True,7
+intern,1191587496,Pingeru/qrmenu-api,Backend API,Python,,0,0,0,1,50,False,False,0,63,True,1765,False,True,True,False,6
+intern,1138598207,adamchainz/icu4c-builds,,Python,,0,0,0,3,71,False,False,0,127,True,767,False,True,False,True,9
+intern,1218429560,faysmiles/Flashcard-app,Flashcard facts and pictures combined as one!,Python,,0,0,0,1,253,False,False,0,35,False,0,False,True,False,False,5
+intern,1065909128,Jchoi1023/leetcode-solutions,A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0),Python,,0,0,0,1,339,False,False,0,241,True,12353,False,False,False,False,83
+intern,1246129250,bluedrim/VerilogCodingAgent,,Python,,0,0,0,1,357,False,False,0,5,True,1276,False,True,False,False,9
+intern,1251691524,Pargusz/parguszv1,,Python,,0,0,0,0,35,False,False,0,0,True,5567,True,True,False,False,14
+intern,1247879020,mattcline/jobstream,,Python,,0,0,0,1,141,False,False,0,3,True,1648,False,True,False,False,6
+intern,1184747471,circlegetsquare/fbb-rookie-draft-bracket,ESPN Fantasy Basketball Rookie Draft Bracket Tracker,Python,,0,0,0,2,420,False,False,0,71,True,1164,False,True,False,True,13
+intern,1220460616,KATO-BOON/stock-morning-line,,Python,,0,0,0,3,282,False,False,0,32,True,1264,False,True,False,True,9
+intern,1251519786,kevans05/Red-Line-Routing,,Python,,0,0,0,1,45,False,False,0,0,False,0,False,False,False,False,2
+intern,1236796176,nazmiefearmutcu/awareness,"Local-first public-text ingestion engine — backfill from Common Crawl & HF FineWeb, live tail RSS / sitemaps / GDELT into Apache Iceberg, queryable from DuckDB.",Python,"common-crawl,data-engineering,data-pipeline,duckdb,fineweb,gdelt,iceberg,osint,python,web-scraping",0,0,0,1,410,False,False,0,15,True,11316,False,True,True,False,12
+intern,1251729992,CreatorDevX/HS-VLM,,Python,,0,0,0,1,224,False,False,0,0,False,0,False,True,False,False,9
+intern,1251718077,Halvorstensholt9/stabek-monitor,,Python,,0,0,0,0,67,False,False,0,0,True,8941,False,True,False,False,13
+intern,1203864690,taostat/blockmachine-validator,,Python,,0,0,0,3,97,False,False,0,50,True,8708,True,True,True,True,25
+intern,1249383685,Trustcorporation88/crm-2026,crm digital,Python,,0,0,0,1,176,False,False,0,2,True,433,True,False,True,True,57
+intern,1251547960,hhkarimi/claude-shopping-skills,Claude Code plugin for comparison shopping on Amazon. Includes a stealth Playwright scraper and a protein-powder ranker.,Python,,0,0,0,3,90,False,False,0,0,True,3236,False,False,True,True,12
+intern,1251672830,amiriqbalkhan123/MediPro-Backend,"Comprehensive Dental Clinics Management System built in React, Zustand, PostgreSQL, and FastAPI !",Python,,0,0,0,1,74,False,False,0,0,False,0,False,True,False,False,4
+intern,1206797082,pmas248/neetcode-submissions-19skrqp4,My NeetCode.io problem submissions,Python,,0,0,0,1,102,False,False,0,47,True,2126,False,False,False,False,2
+intern,1251149420,klasseva/tsarev-bot,,Python,,0,0,1,1,210,False,False,0,0,True,2115,False,True,False,False,11
+intern,1251729712,anothererikjames/sourcefuse-demo,SourceFuse Postman demo — project/task management API,Python,,0,0,0,1,100,False,False,0,0,True,3968,False,False,False,True,8
+intern,1247367167,dreamcrest1/ig-metrics-admin,,Python,,0,0,0,1,132,False,False,0,4,True,18,False,True,False,False,7
+intern,1244809560,gsuarez90/trading-dashboard,Personal AI-assisted stock trading dashboard,Python,,0,0,0,2,320,False,False,0,7,True,39874,False,True,False,True,13
+intern,1222908939,festussabu/chat_application,,Python,,0,0,0,1,36,False,False,0,30,False,0,False,False,False,False,5
+intern,1251450828,ADanna-PIECE/ALGOCODE,"Modular architecture for financial data processing and automated strategy execution. Focused on high-performance analysis, robust error handling, and scalable technical solutions.",Python,,0,0,0,1,262,False,False,0,0,True,2755,False,False,False,False,9
+intern,1168550017,Sarahy055/laboratorio-preguntas-llm,Tarea 1. Programación con LLMs.,Python,,0,0,0,1,28,False,False,0,89,True,164,False,False,False,False,3
+intern,1249847472,hallovorld/renquant-pipeline,,Python,,0,0,0,1,188,False,False,0,1,True,2264,False,True,True,True,11
+intern,1246123551,stefanoboniniNYC/PE-Performance,Web App files,Python,,0,0,0,1,364,False,False,0,5,True,2758,False,True,False,False,7
+intern,1003209772,launchbynttdata/launch-workflows,,Python,,1,0,3,6,482,False,False,0,345,True,418,False,False,False,True,6
+intern,1248506180,Sidra02s/news-curator,,Python,,0,0,0,1,83,False,False,0,3,True,2298,False,False,False,True,12
+intern,1248112775,brianikedinachi-pixel/Astral,"A project designed to help people suffering emotional problems, addiction issues and still for normal day problems.",Python,,0,0,0,1,183,False,False,0,3,True,125,False,True,False,False,5
+intern,1251719482,empyreandance/hrrr-ingest,HRRR Threshold Tool — hourly ingest worker (HRRR → parameters/composites → Zarr on Cloudflare R2),Python,,0,0,0,1,111,False,False,0,0,True,1311,False,False,False,False,6
+intern,1251356488,VimeansethThorng/text-based-diagramming-language,,Python,,0,0,0,1,83,False,False,0,0,True,3975,False,True,True,False,12
+intern,1248690764,Sobhard/EvolutionaryTreeApp,,Python,,0,0,0,1,25,False,False,0,2,False,0,False,False,False,False,8
+intern,1235145008,Saurav-Kalaskar/AI-News-Daily,,Python,,0,0,0,2,88,False,False,0,16,True,2564,False,True,False,True,20
+intern,1191105148,DevSykes/Proyecto-3-Katas-Python,3er proyecto de Máster,Python,,2,0,0,1,26,False,False,0,63,False,0,False,False,False,False,1
+intern,1251308484,omerozdemir1/bioinformatics-project,,Python,,0,0,0,1,163,False,False,0,0,True,2124,False,False,False,False,4
+intern,1247564452,sethrylan/rss,,Python,,0,0,2,3,41,False,False,0,4,True,483,False,True,False,True,11
+intern,1250424185,anacarolinademariamello-hue/dash-digital-app,"Dash Digital — App unificado (Painel, Calendário, Legendas, Roteiros, Copy Ads, Relatórios)",Python,,0,0,0,1,347,False,False,0,1,False,0,False,True,False,True,11
+intern,1189556559,pablosaru/public,,Python,,0,0,0,1,20,False,False,0,65,False,0,False,False,False,False,5
+intern,1243620976,xFengleN/MiniBountyFactory_LangGraph,,Python,,0,0,0,1,271,False,False,0,8,True,16646,False,True,True,False,12
+intern,1239306745,chickengir1/agent-orchestration-infra,Reusable Claude Code and Codex agent/skill orchestration infrastructure.,Python,,0,0,0,1,497,False,False,0,12,True,5644,False,False,False,False,6
+intern,1188665188,jas410/portfolio,,Python,,0,0,0,2,167,False,False,0,66,True,13270,False,False,False,False,16
+intern,1251609307,pdugan20/bibliocommons-mcp,"MCP server for placing holds, searching, and managing your account at public libraries that use BiblioCommons.",Python,"bibliocommons,library,mcp,mcp-server,python,seattle-public-library",0,0,1,1,162,False,False,0,0,True,3308,False,True,True,True,22
+intern,1179092805,spentpark/backend-python,Backend in Python,Python,,0,0,0,1,92,False,False,0,77,True,52553,True,True,True,True,15
+intern,1251409231,heaven999b/scenecopilot,Wearable-first multimodal scene assistant with FastAPI backend and Android Java client,Python,,0,0,0,1,48,False,False,0,0,True,5765,False,False,False,False,6
+intern,1248468234,jeremiahulate/ai-microservice-platform,,Python,,0,0,0,1,51,False,False,0,3,True,0,False,False,False,False,6
+intern,1251404923,nikaafanaseva/vacancies_parser,Парсинг вакансий по маркетингу,Python,,0,0,0,1,131,False,False,0,0,True,77,False,True,False,False,9
+intern,1251658964,giannis9/guru-investor-os,,Python,,0,0,0,1,66,False,False,0,0,True,2203,False,True,False,True,26
+intern,1244069528,rexologue/vllm-gateway,,Python,,0,0,0,1,52,False,False,0,7,True,4067,False,False,False,False,8
+intern,915020836,JamesTiberiusKirk/serverconfig,,Python,,0,0,0,1,277,False,False,0,502,True,4480,False,False,False,False,12
+intern,1137922041,SMSLYCLOUD/smsly-shared,"SMSLY Shared Core Library - Common middleware, auth, and audit components",Python,,0,0,0,2,189,False,False,0,127,False,0,True,False,False,False,13
+intern,1244052225,LuchoLatella/fintech-platform,App de seguimiento de mercado e inversiones,Python,,0,0,0,1,88,False,False,0,7,True,40,False,False,False,False,9
+intern,1249504626,mralefe-leo/Controle-de-Acesso---SENAIHUB---DR-AC,,Python,,0,0,0,0,471,False,False,0,2,False,0,False,True,False,False,5
+intern,1251370529,DEVGRU-6/job-scraper-agent,,Python,,0,0,0,1,31,False,False,0,0,True,19,False,True,False,True,4
+intern,1237162733,adrianolionetti-arch/fineco-agent,,Python,,0,0,0,1,260,False,False,0,14,True,6973,False,True,False,True,11
+intern,1247591688,Jgalvis01/sistemas-inteligentes-Gammy,,Python,,0,0,0,2,54,False,False,0,4,True,4520,False,True,False,False,6
+intern,960698654,amertakarsaadhinata/number-float32-base-identity,Evaluate the identity function for a single-precision floating-point number.,Python,"float,float32,identity,javascript,mathematics,nodejs,single,single-precision,stdlib",0,0,0,2,55,False,False,0,418,True,3572,False,True,True,False,29
+intern,1250782192,thevaultlabsco/vault-engine,AI systems for narrative commerce and scalable semantic infrastructure.,Python,,0,0,0,1,55,False,False,0,0,True,966,False,True,True,False,10
+intern,1249607156,guykopa/OrientAPI,,Python,,0,0,0,2,100,False,False,0,2,True,8828,False,False,True,True,7
+intern,1249214915,DeCyberGuardian/sankofaeye,Passive Exposure Intelligence Platform for the African Digital Ecosystem — AfriWealth Cyber Intelligence,Python,,0,0,0,1,69,False,False,0,2,True,18696,False,True,False,False,16
+intern,1206466527,daytonhd/calia-smart-scheduling,"Full-stack smart scheduling app with FastAPI, SQLModel, PostgreSQL, Docker, and Next.js. Supports event CRUD, conflict detection, slot suggestions, rescheduling options, and schedule metrics.",Python,,0,0,0,1,326,False,False,0,47,True,0,False,False,False,False,5
+intern,1225868735,epvidya/Hr_Analytics_dbt_Project,,Python,,0,0,0,1,146,False,False,0,27,True,10029,False,True,False,False,7
+intern,1243802413,leandrotanuri/dashboard,,Python,,0,0,0,1,49,False,False,0,8,False,0,False,True,False,False,5
+intern,1245145492,vinitobias672003/Projeto-Compilador-,,Python,,0,0,0,1,11,False,False,0,6,True,21,False,False,False,False,6
+intern,960689094,pritamdolas/math-base-special-csignumf,Evaluate the signum function of a single-precision complex floating-point number.,Python,"cmplx,complex,javascript,mathematics,nodejs,number,signumf,stdlib",0,0,0,2,76,False,False,0,418,True,3776,False,True,True,False,29
+intern,1228341438,constantine950/TradeScope,,Python,,0,0,0,1,115,False,False,0,23,True,0,False,False,False,False,10
+intern,1251699821,maxiseeh/campus-app-backend,,Python,,0,0,0,2,14,False,False,0,0,False,0,False,True,False,False,4
+intern,960461525,md226065/math-base-special-fibonaccif,Compute the nth Fibonacci number as a single-precision floating-point number.,Python,"fib,fibonaccif,function,javascript,mathematics,nodejs,number,special,special-functions,stdlib",0,0,0,2,64,False,False,0,418,True,3334,False,True,True,False,29
+intern,1251665045,dneprroleplay-debug/tiktok-viral-ai,AI Telegram bot for TikTok viral content,Python,,0,0,0,1,41,False,False,0,0,True,59,False,True,False,False,8
+intern,960464814,Deusallrising/math-base-special-atan2d,"Compute the angle in the plane (in degrees) between the positive x-axis and the ray from (0,0) to the point (x,y).",Python,"arctangent,atan,atan2,atan2d,inverse,javascript,mathematics,nodejs,number,quotient,stdlib,trig,trigonometry,value",0,0,0,2,246,False,False,0,418,True,3538,False,True,True,False,29
+intern,1191825498,Mahmooo0od/Mahmoud-Daily-DSA-Solutions,,Python,,0,0,0,1,407,False,False,0,63,True,22563,False,False,False,False,92
+intern,1129903764,dishplate/AR-public,,Python,,0,0,0,1,89,False,False,0,140,True,65,False,False,False,False,11
+intern,1215419850,AlfieH6809/Platformer-Game,assignment,Python,,0,0,0,1,27,False,False,0,38,True,29,False,False,False,False,4
+intern,1247903434,StephCastrof001/klipso_data_1,,Python,,0,0,0,1,20,False,False,0,3,False,0,False,True,False,False,8
+intern,1120711925,dralexportfolio/infrastructure,,Python,,0,0,0,1,305,False,False,0,157,True,459,False,False,False,False,6
+intern,1251243697,HarshCh017/metadata-lineage-engine,"Enterprise metadata lineage platform for parsing QlikView scripts and building attribute-level lineage graphs using Neo4j. Supports SQL lineage, JOIN lineage, RESIDENT loads, synthetic field tracking, multi-hop lineage traversal, metadata APIs, and graph-based impact analysis through FastAPI and Neo",Python,,0,0,0,0,29,False,False,0,0,True,7347,True,True,True,True,17
+intern,1251248739,leannejoylibertad/Learning-Poverty-Dashboard-SDG-4-Quality-Education,"What factors significantly influence Learning Poverty across countries?An interactive, regression-powered dashboard built with Streamlit, analyzing the drivers of learning poverty across 75 countries (2000–2023) using World Bank Open Data.🔥",Python,,0,0,0,1,444,False,False,0,0,True,4861,False,True,False,False,11
+intern,1205628287,Hollow7Mint/clipboard-viewer,,Python,,0,0,0,0,201,False,False,0,48,False,0,False,False,False,False,8
+intern,1197005851,tidzo/travelexpensinator,,Python,,0,0,0,0,468,False,False,0,57,True,5704,False,False,False,False,14
+intern,1250019044,WilliamHudspeth/institutional-alpha,"A multi-factor equity scoring framework that goes beyond cheap vs. expensive. Models expectations, quality, reflexivity, crowding, and regime fit as orthogonal factors.",Python,"equity-research,factor-model,financial-modeling,fundamental-analysis,hedge-fund,investing,portfolio-management,python,quantitative-finance,valuation",0,0,0,2,235,False,False,0,1,True,9208,False,True,True,True,18
+intern,1133508671,sundarlal12/securelint_API,"SecureLint API provides backend services for detecting exposed secrets, enforcing security policies, and powering automated code security analysis.",Python,,0,0,0,1,136,False,False,0,134,True,17,False,True,False,False,10
+intern,1251696196,ViPunch/ViProxyBot,,Python,,0,0,0,1,108,False,False,0,0,True,2559,False,True,True,True,11
+intern,1241813674,stephenkrolikowskiUD/WNBA,,Python,,1,0,0,1,337,False,False,0,10,False,0,False,False,False,True,6
+intern,1165123356,AlexKrege/IGI-,,Python,,0,0,0,1,63,False,False,0,93,True,27,False,False,False,False,2
+intern,1251019961,Nikisin-git/RVC-VITS-speech-synthesis,,Python,,0,0,0,1,68,False,False,0,0,True,2035,False,True,True,False,11
+intern,1226719303,Huseyn005/holbertonschool-machine_learning,,Python,,0,0,0,1,78,False,False,0,26,False,0,False,False,False,False,2
+intern,1250738325,Tumelo-create/Dashboard-for-65-Tumelo,CA2 Dash for 65 +,Python,,0,0,0,1,13,False,False,0,0,False,0,False,True,False,False,6
+intern,960041454,Relaxolotl17/gemma-3-tutorial,Detailed guide on Google's Gemma 3 AI,Python,"ai,aitools,gemma,gemma3,google,google-api,googleai,googleaistudio,googleapi,huggingface",0,0,0,2,52,False,False,0,419,True,3162,False,False,False,False,6
+intern,1251464137,johnjjudge/neetcode-submissions,My NeetCode.io problem submissions,Python,,1,0,0,1,48,False,False,0,0,True,2120,False,False,False,False,2
+intern,1196388263,Mayank-glitch-cpu/neetcode-submissions-8e3fcdxj,My NeetCode.io problem submissions,Python,data-structures-and-algorithms,0,0,0,1,112,False,False,0,58,True,2136,False,False,False,False,2
+intern,1251402145,mmgt2005/doulashield,,Python,,0,0,1,1,112,False,False,0,0,False,0,False,False,False,False,5
+intern,1219551517,jayesh2810/talk-to-db,,Python,,0,0,0,1,285,False,False,0,33,True,2823,False,False,False,False,6
+intern,1249385303,Ben-Plambeck/Shipping-app,,Python,,0,0,0,1,94,False,False,0,2,False,0,False,True,False,False,4
+intern,1233201411,52454D434F/hackster-rss,Creating RSS feed from www.hackster.io/news/,Python,,0,0,0,2,160,False,False,0,19,False,0,False,True,False,True,6
+intern,1217955027,jsherman999/BrickBlade,Lego analyzer,Python,,0,0,0,1,128,False,False,0,35,True,3139,False,True,True,False,12
+intern,1153948564,UNIL-DESI/dvc-viewer,,Python,,1,0,0,2,480,False,False,0,107,True,8371,False,True,True,True,19
+intern,1226715432,lalalalily/holbertonschool-machine_learning,,Python,,0,0,0,1,76,False,False,0,26,False,0,False,False,False,False,2
+intern,1250316708,map17-pooh/Backend_Proyect,,Python,,0,0,0,1,140,False,False,0,1,True,17,False,True,False,False,4
+intern,1243143133,youRaSoftware/tce-monitor,,Python,,0,0,0,2,277,False,False,0,8,True,5055,False,True,False,True,6
+intern,360360373,MatheusMartinho/MatheusMartinho,,Python,,0,0,0,2,141,False,False,0,1861,True,14109,False,False,False,True,4
+intern,1247839119,FuegoDev369/fuego-sys,Portfolio Infrastructure,Python,,0,0,0,1,143,False,False,0,4,True,25939,False,True,False,True,13
+intern,1208802468,breverdbidder/everest-content,"Everest Capital content SSOT — markdown-first, Eleventy-rendered, Pages-deployed. Design tokens in design.md (Stitch schema).",Python,,0,0,4,2,194,False,False,0,45,True,3917,False,True,True,True,19
+intern,1247727802,ylianxin2003-droid/claude-project,,Python,,0,0,0,1,358,False,False,0,4,True,7084,False,True,False,False,22
+intern,1249323523,individuum/dllm,Volunteer-trained EU-jurisdiction open language model — distributed DiLoCo training on consumer + cloud GPUs,Python,,0,0,0,1,316,False,False,0,2,True,3747,True,True,True,False,15
+intern,1052319222,libardo667/dwarfweave_backend,An AI-generated interactive fiction story!,Python,,0,0,0,2,487,False,False,0,262,False,0,False,True,True,False,15
+intern,1247131300,Almoon-D/IBKR-Portmanteau,"Unified Model Context Protocol (MCP) server bridging Interactive Brokers (IBKR) with LLMs and AI agents. Integrates portfolio, live and stale market data, execution routing, and macro context via FRED, Yahoo Finance, and Binance.",Python,,0,0,0,1,84,False,False,0,4,True,10668,False,True,False,False,7
+intern,1250877011,pratay1/anomaly,,Python,,0,0,0,2,85,False,False,0,0,True,7078,False,True,True,False,12
+intern,1248718388,marvuschan5-pixel/scanner-bunny,,Python,,0,0,0,1,89,False,False,0,2,False,0,True,True,False,True,5
+intern,1251259168,Ghost-LInk-star/MygalaXGhostLink,,Python,,0,0,0,2,40,False,False,0,0,False,0,False,True,False,True,10
+intern,1237005517,iberi22/skills,"🧠 Unified skill repository for AI coding agents. SKILL.md v2 format with structured frontmatter, workflows, and auto-generated registry.",Python,,0,0,0,1,211,False,False,0,15,True,4057,False,False,False,True,7
+intern,1238994404,williamowen2006-ux/neetcode-submissions,My NeetCode.io problem submissions,Python,,0,0,0,1,35,False,False,0,13,True,2128,False,False,False,False,2
+intern,1249832432,Newnell/tribunal-do-absurdo,,Python,,0,0,0,1,323,False,False,0,1,False,0,False,True,False,False,4
+intern,1250481804,iammojogo-sudo/hunyuan2.1_t2i_modly,A Hunyuan Text 2 Image Model to turn text prompts to images,Python,,0,0,0,1,131,False,False,0,1,True,892,False,False,False,False,5
+intern,957312356,Afathi90/UniFile,"♾️📄️💾️ A demo for UniFile/EveryFile, a singular file extension that can act as a format for any file extension. Hopefully, this won't come to fruition, as it would make every other file format obsolete.",Python,"cloud,concept,demo,dropbox-chooser,everyfile-development,everyfile-file-format,filedialog,ftp,ftp-client,obsolete,react,stream,unifile-development,webdav",0,0,0,2,316,False,False,0,423,True,2769,False,False,False,False,51
+intern,1251311573,cocobot/cdr-replay,Archive navigable des matchs de la Coupe de France de Robotique (généré depuis les flux YouTube),Python,,0,0,0,0,157,False,False,0,0,True,2563,False,True,False,True,8
+intern,1248615201,zaza6525/zaza-semantic-engine,"Local-first semantic search and document indexing engine — multi-format ingestion, hybrid search, CLI + REST API. No external APIs required.",Python,"chromadb,cli-tool,document-ingestion,embedding,local-first,multilingual,semantic-search,sentence-transformers",0,0,0,1,83,False,False,0,3,True,5084,False,True,True,True,12
+intern,1204316486,harrison16888/qzenx_vl0rixa,,Python,,0,0,0,1,201,False,False,0,50,False,0,False,True,False,True,8
+intern,1096772950,lofimichael/actioneer,,Python,,0,0,0,2,393,False,False,0,193,True,3560,False,False,False,True,4
+intern,1251700376,tiktokservat7-stack/SERVAT.IA.COM,,JavaScript,,0,0,0,1,23,False,False,0,0,True,15,False,True,False,False,8
+intern,1251033995,krad1985/KepanEditor,科判編輯器,JavaScript,,0,0,0,1,132,False,False,0,0,True,30,False,True,False,False,7
+intern,1249536089,tahaefendy/val-eloboost,,JavaScript,,0,0,0,0,108,False,False,0,2,True,60,False,True,False,False,9
+intern,1013469094,ayugacor/stats-array-variancetk,,JavaScript,"array,deviation,dispersion,javascript,mathematics,nodejs,sample-variance,standard-deviation,statistics,stats,stdlib,unbiased",0,0,0,2,58,False,False,0,327,True,4867,False,True,True,False,24
+intern,1013470678,susfgdou/stats-array-variancepn,Calculate the variance of an array using the stats-array-variancepn library. Ideal for numerical and scientific computation in JavaScript. 🚀📊,JavaScript,"array,deviation,dispersion,javascript,mathematics,nodejs,sample-variance,standard-deviation,statistics,stats,stdlib,unbiased,var,variance",1,0,0,2,58,False,False,0,327,True,3956,False,True,True,False,24
+intern,1251601130,dananaomi-design/Daily-boost,,JavaScript,,0,0,0,1,26,False,False,0,0,False,0,False,True,False,False,5
+intern,1251555472,rafaelUribe/atlassian-local-mcp,Local atlassian mcp for api key,JavaScript,,0,0,0,0,358,False,False,0,0,True,13778,False,True,False,False,17
+intern,1248771519,renato-sgl-asfalto/Sgl-asfalto-,,JavaScript,,0,0,0,1,173,False,False,0,2,False,0,False,False,False,False,3
+intern,1250634239,AngelitoSoto/Proyecto_Semestral,,JavaScript,,0,0,0,2,200,False,False,0,1,True,5785,False,False,False,True,7
