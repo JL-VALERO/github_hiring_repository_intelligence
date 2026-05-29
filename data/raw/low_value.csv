@@ -1,0 +1,60 @@
+label,repo_id,full_name,description,language,topics,stars,forks,open_issues,contributor_count,size_kb,is_fork,is_archived,last_commit_days_ago,repo_age_days,has_readme,readme_size_bytes,has_docker,has_requirements,has_tests_folder,has_ci_cd,root_file_count
+low_value,1296269,octocat/Hello-World,My first repository on GitHub!,,,3583,6212,5930,3,1,False,False,645,5600,True,13,False,False,False,False,1
+low_value,1300192,octocat/Spoon-Knife,This repo is for demonstration purposes only.,HTML,,13813,157326,20597,1,2,False,False,644,5599,True,780,False,False,False,False,3
+low_value,1944053,github/testrepo,DON'T DELETE THIS. USED FOR MONITORING AND WHATNOT.,C,,31,73,31,2,18,False,True,1091,5452,False,0,False,False,True,False,1
+low_value,330651,mojombo/bert,BERT (Binary ERlang Term) serialization library for Ruby.,Ruby,,208,58,11,7,186,False,False,939,6075,True,1765,False,False,True,False,12
+low_value,28,mojombo/god,Ruby process monitor,Ruby,,2215,511,133,53,2639,False,False,789,6709,True,721,False,False,True,True,18
+low_value,144,mojombo/chronic,Chronic is a pure Ruby natural language date parser.,Ruby,,3255,452,156,45,689,False,False,972,6693,True,4394,False,False,True,True,10
+low_value,18221276,octocat/git-consortium,This repo is for demonstration purposes only.,,,574,165,47,1,190,False,False,684,4443,True,306,False,False,False,False,3
+low_value,667163,github/github-services,Legacy GitHub Services Integration,Ruby,,1892,1258,0,354,99492,False,True,2673,5857,True,1070,False,False,True,True,15
+low_value,355893,github/markup,Determines which markup library to use to render a content file (e.g. README) on GitHub,Ruby,readme,6027,3369,26,91,898,False,False,0,6052,True,3022,False,False,True,True,16
+low_value,611562,holman/dotfiles,@holman does dotfiles,Shell,"dotfiles,shell,zsh",7726,3261,35,74,593,False,False,0,5886,True,3774,False,False,False,False,19
+low_value,2329766,mathiasbynens/dotfiles,":wrench: .files, including ~/.macos — sensible hacker defaults for macOS",Shell,"bash,dotfiles,macos",31348,8515,187,118,850,False,False,660,5378,True,5139,False,False,False,False,29
+low_value,3250271,paulirish/dotfiles,"paul's fish, bash, git, etc config files. good stuff. ",Shell,"dotfiles,fish,homebrew,yay",4342,1273,3,45,1770,False,False,56,5238,True,4306,False,True,False,True,40
+low_value,27172,ryanb/dotfiles,"config files for zsh, bash, completions, gem, git, irb, rails",Vim Script,,2381,776,0,6,481,False,False,14,6550,True,4055,False,False,False,False,19
+low_value,11202663,anishathalye/dotfiles,~anish • powered by https://github.com/anishathalye/dotbot 💾,Shell,,754,270,0,1,561,False,False,33,4709,True,1366,False,False,False,True,35
+low_value,3024213,cowboy/dotfiles,My Ubuntu / OS X dotfiles.,Shell,,1601,473,17,6,11201,False,False,1713,5271,True,9411,False,False,True,False,14
+low_value,3345666,necolas/dotfiles,"OS X dotfiles: bash, git, vim, etc.",Shell,,792,140,7,2,247,False,False,131,5227,True,6191,False,False,False,False,8
+low_value,2862212,alrra/dotfiles,💻 macOS dotfiles,Shell,"bash,dotfiles,git,macos,shell,snippets,tmux,ubuntu,vim",1529,284,0,12,2307,False,False,30,5295,True,5248,False,False,False,True,8
+low_value,12632061,webpro/dotfiles,Dotfiles for macOS,Shell,"bash,dotfiles,git,gnu,hammerspoon,homebrew,homebrew-cask,mackup,macos,makefile,shell,stow",1228,237,1,7,697,False,False,33,4647,True,3422,False,False,True,True,13
+low_value,529205,gf3/dotfiles,Configurations for the tools I use every day,Emacs Lisp,"dotfiles,emacs,eza,fish,ghostty,linux,macos,ripgrep,shell,yadm,zoxide",1116,113,2,1,9360,False,False,128,5939,True,2361,False,False,False,False,5
+low_value,24631181,driesvints/dotfiles,Get started with your own dotfiles.,Shell,"backup,brew,dotfiles,homebrew,macos,oh-my-zsh,shell,zsh",2708,704,0,14,5274,False,False,8,4257,True,6557,False,False,False,True,18
+low_value,21460736,joshukraine/dotfiles,":round_pushpin: My dotfiles for macOS using Neovim, Zsh, and Ghostty + Tmux",Shell,"ai-agents,asdf,claude-code,dotfiles,ghostty,kitty,lazyvim,lua,macos,neovim,neovim-config,neovim-dotfiles,rails,ruby,tmux,vim,zsh",414,48,2,4,6120,False,False,0,4346,True,21278,False,False,True,True,37
+low_value,68130773,nicholasjackson/dotfiles,"Various configuration dotfiles for Vim, etc",Lua,,19,1,0,1,110,False,False,1219,3543,False,0,False,False,False,False,6
+low_value,641222,superbrothers/dotfiles,my config files,Vim Script,,10,0,0,1,866,False,False,351,5870,True,107,False,False,False,False,12
+low_value,5526729,gpakosz/.tmux,"Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍",Shell,"cli,conf,configuration,console,customization,dotfiles,powerline,screen,shell,terminal,theme,tmux,tmux-conf,tmux-config,tmux-configuration,tmux-plugins,tmux-theme,tpm,tty,wsl",24977,3585,26,13,585,False,False,17,5025,True,19389,False,False,False,True,10
+low_value,2798959,skwp/dotfiles,"YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen",Ruby,,6973,1359,4,92,2937,False,False,130,5305,True,16892,True,False,False,True,27
+low_value,1252522,thoughtbot/dotfiles,"A set of vim, zsh, git, and tmux configuration files.",Shell,,8152,1786,13,96,625,False,False,49,5613,True,10026,False,False,False,True,33
+low_value,36994655,jessfraz/dotfiles,My dotfiles. Buyer beware ;),Shell,"bash,containers,docker,dotfiles,linux,shell",3561,513,1,21,273514,False,False,1,4008,True,1454,False,False,False,True,30
+low_value,618605087,caarlos0/dotfiles,🏠 $HOME/.config,Shell,"dotfiles,fish,home-manager,linux,macos,neovim,nix,nix-darwin,nixos,tmux",211,11,1,2,1682,False,False,0,1160,True,672,True,False,False,False,30
+low_value,4426498,atomantic/dotfiles,"🖥️ Automated Configuration, Preferences and Software Installation for macOS",Shell,"configuration,developer-tools,dotfiles,iterm2,machine,macos",1368,433,0,15,11041,False,False,56,5117,True,13626,False,False,False,False,19
+low_value,30335131,Parth/dotfiles,,Lua,,513,221,15,7,10414,False,False,45,4129,True,327,False,False,False,False,10
+low_value,46608214,dikiaap/dotfiles,"Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.",Shell,"alacritty,compton,dotfiles,dunst,i3,i3blocks,i3wm,linux,neovim,picom,rofi,tmux,vim,vimrc,zsh,zshrc",1487,174,0,3,1484,False,False,346,3840,True,4434,False,False,False,True,33
+low_value,54296863,nicksp/dotfiles,"My personal dotfiles: Zsh, Git, VSCode, Obsidian, Ghostty, etc.",Shell,"agentic-ai-development,ai-agents,amp,configuration,dotfiles,environment,fzf,ghostty,git,homebrew,lazydocker,lazygit,macos,obsidian,starship-prompt,vscode,zsh",442,102,0,3,16978,False,False,5,3720,True,4045,False,True,False,False,32
+low_value,2401695,jacobwgillespie/dotfiles,:house: dotfile configuration for macOS and Linux,Shell,"dotfiles,homebrew,linux,macos,zsh",52,8,0,2,1533,False,False,67,5367,True,1653,False,True,False,False,16
+low_value,6157236,sapegin/dotfiles,"My macOS environment: zsh, Git, Visual Studio Code, etc.",JavaScript,"dotfiles,shell,unix,vscode,zsh",527,50,0,6,20298,False,False,0,4977,True,2890,False,True,False,False,28
+low_value,337834,claytron/dotfiles,My *nix confs,Vim Script,,96,21,0,1,5433,False,False,6,6069,True,2352,False,False,False,False,69
+low_value,36,defunkt/ambition,include Enumerable — Unmaintained,Ruby,,167,34,1,3,473,False,False,4052,6708,True,427,False,False,True,False,12
+low_value,62290,wycats/merb,master merb branch,Ruby,,340,109,5,110,14003,False,False,2260,6435,True,52,False,False,False,False,21
+low_value,26,wycats/merb-core,Merb Core: All you need. None you don't.,Ruby,,434,71,22,64,3462,False,False,6435,6710,True,75,False,False,False,False,1
+low_value,15257,rails/thor,Thor is a toolkit for building powerful command-line interfaces.,Ruby,,5255,551,126,209,3006,False,False,1,6594,True,1317,False,False,True,True,15
+low_value,441269,jashkenas/coffeescript,Unfancy JavaScript,CoffeeScript,,16579,1979,96,212,30595,False,False,796,6004,True,2776,False,True,True,True,22
+low_value,1609021,rails/prototype-rails,"Add RJS, Prototype, and Scriptaculous helpers to Rails 3.1+ apps",Ruby,,53,140,15,8,257,False,False,1507,5523,True,1226,False,False,True,False,10
+low_value,337788,rails/arel,A Relational Algebra,Ruby,,2050,385,0,149,2549,True,False,2773,6069,True,176,False,False,False,False,3
+low_value,2305307,rails/journey,A router for rails,Ruby,,216,51,6,20,662,False,True,3190,5382,True,1523,False,False,True,True,11
+low_value,3710607,rails/strong_parameters,Taint and required checking for Action Pack and enforcement in Active Model,Ruby,,1262,162,65,49,169,False,True,3214,5188,True,10089,False,False,True,True,10
+low_value,21829,thoughtbot/factory_bot,A library for setting up Ruby objects as test data.,Ruby,"factories,factory-bot,factory-girl,fixtures,rails,ruby,rubygems,testing,thoughtbot",8176,2559,71,256,4214,False,False,23,6567,True,3994,False,False,True,True,32
+low_value,8393,thoughtbot/paperclip,Easy file attachment management for ActiveRecord,Ruby,,9016,2412,53,358,3579,False,True,1049,6621,True,37658,False,False,True,True,23
+low_value,9664,thoughtbot/shoulda,Makes tests easy on the fingers and the eyes,Ruby,,2205,182,3,57,1345,False,False,369,6617,True,3669,False,False,True,True,21
+low_value,36572,thoughtbot/hoptoad_notifier,Reports exceptions to Hoptoad,Ruby,,410,98,0,32,589,False,True,3120,6517,True,3358,False,False,True,False,19
+low_value,894776590,rspec/rspec,The RSpec monorepo,Ruby,,104,44,164,366,13843,False,False,0,547,True,4098,False,False,False,True,23
+low_value,202744821,nicholasjackson/demo-consul-service-mesh,Demos built using Docker Compose showing Consul Service Mesh features,Shell,,147,51,6,1,1719,False,False,2341,2476,True,2836,False,False,False,False,12
+low_value,198195566,nicholasjackson/fake-service,Simple service for testing upstream service communications,Go,"golang,microservices,testing-tool",416,79,9,10,3807,False,False,805,2501,True,17975,True,True,False,True,32
+low_value,13163,pjhyett/github-services,Moved to http://github.com/github/github-services,Ruby,,410,54,1,31,2256,True,False,2827,6603,True,147,False,False,False,False,2
+low_value,2349728,pockethub/PocketHub,PocketHub Android App,Java,,9370,3412,135,109,11945,False,False,1086,5375,True,3793,False,False,False,True,16
+low_value,60656641,github/gov-takedowns,Text of government takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices.,,,3162,181,0,7,2269,False,False,15,3641,True,3513,False,False,False,False,10
+low_value,341626,imathis/octopress,Octopress is an obsessively designed framework for Jekyll blogging. It’s easy to configure and easy to deploy. Sweet huh?,Ruby,,9249,2566,243,106,170801,False,False,789,6065,True,3248,False,False,False,True,15
+low_value,3077195,plusjade/jekyll-bootstrap,The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages.,Ruby,,3329,1671,57,52,810,False,True,543,5262,True,3449,False,False,False,False,22
+low_value,16599031,barryclark/jekyll-now,"Build a Jekyll blog in minutes, without touching the command line.",CSS,,8396,34994,391,23,8406,False,False,646,4493,True,7941,False,False,False,False,14
+low_value,10267810,mmistakes/minimal-mistakes,":triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.",HTML,"algolia,algolia-search,github-pages,jekyll,jekyll-theme,lunr,ruby-gem,theme",13506,27291,24,256,48603,False,False,28,4751,True,20650,False,True,True,True,24
+low_value,460264,schacon/showoff,moved to puppetlabs/showoff!,JavaScript,,2408,13,54,70,3149,True,False,958,5985,True,249,False,False,False,False,2
