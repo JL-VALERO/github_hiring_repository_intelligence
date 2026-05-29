@@ -1,0 +1,1117 @@
+label,repo_id,full_name,description,language,topics,stars,forks,open_issues,contributor_count,size_kb,is_fork,is_archived,last_commit_days_ago,repo_age_days,has_readme,readme_size_bytes,has_docker,has_requirements,has_tests_folder,has_ci_cd,root_file_count,issues_per_fork,log_stars,text_summary,summary_char_len,summary_approx_tok,llm_label,llm_confidence,llm_reasoning
+senior,647427819,langchain-ai/langsmith-sdk,LangSmith Client SDK Implementations,Python,"evaluation,language-model,observability",906,237,170,85,22833,False,False,0,1093,True,3248,False,False,False,True,16,0.7173,6.8101,"Repository: langchain-ai/langsmith-sdk
+Description: ""LangSmith Client SDK Implementations""
+Language: Python | Topics: evaluation,language-model,observability
+Stars: 906 | Forks: 237 | Contributors: 85
+Size: 22,833 KB | Repo age: 1093 days | Last commit: 0 days ago
+README: present (3,248 bytes)
+Tests: no test folder
+CI/CD: configured
+Docker: absent
+Dependencies: no dependency file
+Root file count: 16
+Status: original",419,104,senior,0.85,"The repository is a well-established SDK with 85 contributors, 906 stars, and active maintenance (last commit 0 days ago). It has CI/CD configured, a clear description, and a large codebase (22,833 KB) indicating production-ready practices. However, the absence of a test folder and dependency file slightly lowers confidence, though tests may be in a different location or integrated into the CI."
+intern,1251700376,tiktokservat7-stack/SERVAT.IA.COM,,JavaScript,,0,0,0,1,23,False,False,0,0,True,15,False,True,False,False,8,0.0,0.0,"Repository: tiktokservat7-stack/SERVAT.IA.COM
+Description: ""nan""
+Language: JavaScript | Topics: nan
+Stars: 0 | Forks: 0 | Contributors: 1
+Size: 23 KB | Repo age: 0 days | Last commit: 0 days ago
+README: present (15 bytes)
+Tests: no test folder
+CI/CD: not configured
+Docker: absent
+Dependencies: managed
+Root file count: 8
+Status: original",338,84,low_value,0.95,"The repository is brand new (0 days old), has zero stars and forks, a single contributor, and a minimal README (15 bytes). With no tests, no CI/CD, and only 8 root files in a 23 KB project, it shows no evidence of engineering maturity or production readiness. This appears to be an initial or abandoned project with no hiring signal."
+intern,1249536089,tahaefendy/val-eloboost,,JavaScript,,0,0,0,0,108,False,False,0,2,True,60,False,True,False,False,9,0.0,0.0,"Repository: tahaefendy/val-eloboost
+Description: ""nan""
+Language: JavaScript | Topics: nan
+Stars: 0 | Forks: 0 | Contributors: 0
+Size: 108 KB | Repo age: 2 days | Last commit: 0 days ago
+README: present (60 bytes)
+Tests: no test folder
+CI/CD: not configured
+Docker: absent
+Dependencies: managed
+Root file count: 9
+Status: original",329,82,junior,0.85,"The repository has a basic folder structure and manages dependencies, but lacks tests, CI/CD, and meaningful documentation. With only 9 root files, 0 stars, and a 2-day age, it appears to be a small, early-stage project that shows some structure but not production readiness."
+intern,1233201411,52454D434F/hackster-rss,Creating RSS feed from www.hackster.io/news/,Python,,0,0,0,2,160,False,False,0,19,False,0,False,True,False,True,6,0.0,0.0,"Repository: 52454D434F/hackster-rss
+Description: ""Creating RSS feed from www.hackster.io/news/""
+Language: Python | Topics: nan
+Stars: 0 | Forks: 0 | Contributors: 2
+Size: 160 KB | Repo age: 19 days | Last commit: 0 days ago
+README: missing
+Tests: no test folder
+CI/CD: configured
+Docker: absent
+Dependencies: managed
+Root file count: 6
+Status: original",352,88,junior,0.75,"The repository has a basic folder structure, dependency management, and CI/CD configured, indicating some engineering practices. However, it lacks tests, documentation, and has only 2 contributors with a very recent creation date, suggesting a simple, early-stage project typical of a junior developer."
+senior,792975044,PBH-BTN/BTN-Collected-Rules,由 BTN 网络统计分析和维护的 BitTorrent 恶意/疑似恶意 IP 地址集合,Python,"bittorrent,blacklist,blocklist,ipfilter",547,17,4,5,61289,False,False,0,759,True,10472,False,False,False,True,23,0.2353,6.3063,"Repository: PBH-BTN/BTN-Collected-Rules
+Description: ""由 BTN 网络统计分析和维护的 BitTorrent 恶意/疑似恶意 IP 地址集合""
+Language: Python | Topics: bittorrent,blacklist,blocklist,ipfilter
+Stars: 547 | Forks: 17 | Contributors: 5
+Size: 61,289 KB | Repo age: 759 days | Last commit: 0 days ago
+README: present (10,472 bytes)
+Tests: no test folder
+CI/CD: configured
+Docker: absent
+Dependencies: no dependency file
+Root file count: 23
+Status: original",425,106,senior,0.85,"The repository is well-organized with a clear purpose (IP blacklist for BitTorrent), has CI/CD configured, and is actively maintained with recent commits and multiple contributors. Although it lacks tests and dependency files, the presence of a substantial README, structured codebase, and production-like automation signals senior-level engineering maturity."
+intern,1243620976,xFengleN/MiniBountyFactory_LangGraph,,Python,,0,0,0,1,271,False,False,0,8,True,16646,False,True,True,False,12,0.0,0.0,"Repository: xFengleN/MiniBountyFactory_LangGraph
+Description: ""nan""
+Language: Python | Topics: nan
+Stars: 0 | Forks: 0 | Contributors: 1
+Size: 271 KB | Repo age: 8 days | Last commit: 0 days ago
+README: present (16,646 bytes)
+Tests: test folder present
+CI/CD: not configured
+Docker: absent
+Dependencies: managed
+Root file count: 12
+Status: original",348,87,junior,0.85,"The repository has a basic folder structure, a test folder, and dependency management, indicating some engineering discipline. However, it lacks CI/CD, Docker, and has only one contributor with no evidence of code review or design patterns, typical of a junior developer's project."
+intern,1251519786,kevans05/Red-Line-Routing,,Python,,0,0,0,1,45,False,False,0,0,False,0,False,False,False,False,2,0.0,0.0,"Repository: kevans05/Red-Line-Routing
+Description: ""nan""
+Language: Python | Topics: nan
+Stars: 0 | Forks: 0 | Contributors: 1
+Size: 45 KB | Repo age: 0 days | Last commit: 0 days ago
+README: missing
+Tests: no test folder
+CI/CD: not configured
+Docker: absent
+Dependencies: no dependency file
+Root file count: 2
+Status: original",326,81,low_value,0.95,"The repository has no README, no tests, no CI/CD, no dependency file, and only 2 root files with 0 stars and forks. It appears to be a minimal or abandoned project with no engineering maturity signals, making it unsuitable for hiring evaluation."
+low_value,529205,gf3/dotfiles,Configurations for the tools I use every day,Emacs Lisp,"dotfiles,emacs,eza,fish,ghostty,linux,macos,ripgrep,shell,yadm,zoxide",1116,113,2,1,9360,False,False,128,5939,True,2361,False,False,False,False,5,0.0177,7.0184,"Repository: gf3/dotfiles
+Description: ""Configurations for the tools I use every day""
+Language: Emacs Lisp | Topics: dotfiles,emacs,eza,fish,ghostty,linux,macos,ripgrep,shell,yadm,zoxide
+Stars: 1,116 | Forks: 113 | Contributors: 1
+Size: 9,360 KB | Repo age: 5939 days | Last commit: 128 days ago
+README: present (2,361 bytes)
+Tests: no test folder
+CI/CD: not configured
+Docker: absent
+Dependencies: no dependency file
+Root file count: 5
+Status: original",452,113,low_value,0.95,"This repository is a personal dotfiles collection with no tests, no CI/CD, no dependency management, and a single contributor. While it has many stars, it provides no engineering signal for a recruiter because it lacks any software development practices, architecture, or production-readiness."
+senior,709856847,cxyfreedom/website-hot-hub,记录 36Kr、bilibili、GitHub、抖音、掘金、微信读书平台从 2023-10-25 日至今的热点榜。每小时抓取一次数据，按天归档。非当年数据归档到 Releases 中,Python,,356,55,3,1,144072,False,False,0,945,True,44181,False,True,False,True,18,0.0545,5.8777,"Repository: cxyfreedom/website-hot-hub
+Description: ""记录 36Kr、bilibili、GitHub、抖音、掘金、微信读书平台从 2023-10-25 日至今的热点榜。每小时抓取一次数据，按天归档。非当年数据归档到 Releases 中""
+Language: Python | Topics: nan
+Stars: 356 | Forks: 55 | Contributors: 1
+Size: 144,072 KB | Repo age: 945 days | Last commit: 0 days ago
+README: present (44,181 bytes)
+Tests: no test folder
+CI/CD: configured
+Docker: absent
+Dependencies: managed
+Root file count: 18
+Status: original",426,106,senior,0.85,"The repository is well-organized with a clear purpose, CI/CD configured, dependency management, and a comprehensive README. Although it lacks tests, the automated hourly data collection, archival to Releases, and production-ready practices indicate senior-level engineering maturity."
+low_value,26,wycats/merb-core,Merb Core: All you need. None you don't.,Ruby,,434,71,22,64,3462,False,False,6435,6710,True,75,False,False,False,False,1,0.3099,6.0753,"Repository: wycats/merb-core
+Description: ""Merb Core: All you need. None you don't.""
+Language: Ruby | Topics: nan
+Stars: 434 | Forks: 71 | Contributors: 64
+Size: 3,462 KB | Repo age: 6710 days | Last commit: 6435 days ago
+README: present (75 bytes)
+Tests: no test folder
+CI/CD: not configured
+Docker: absent
+Dependencies: no dependency file
+Root file count: 1
+Status: original",376,94,low_value,0.95,"The repository is abandoned (last commit 6435 days ago), has no tests, no CI/CD, no dependency management, and only a single root file with a minimal README. Despite historical popularity, it provides no current engineering signal for hiring decisions."
+junior,968472536,hoangtuanhehehehhe/AgentVault,"""Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/MCP.""",Python,"a2a,agent,agent-framework,ai,api-key-management,decentralized,fastapi,interoperability,key-management,llm,mcp,open-source,python,security",8,1,0,3,1311,False,False,0,404,True,5395,False,True,False,False,20,0.0,2.1972,"Repository: hoangtuanhehehehhe/AgentVault
+Description: """"Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/MCP.""""
+Language: Python | Topics: a2a,agent,agent-framework,ai,api-key-management,decentralized,fastapi,interoperability,key-management,llm,mcp,open-source,python,security
+Stars: 8 | Forks: 1 | Contributors: 3
+Size: 1,311 KB | Repo age: 404 days | Last commit: 0 days ago
+README: present (5,395 bytes)
+Tests: no test folder
+CI/CD: not configured
+Docker: absent
+Dependencies: managed
+Root file count: 20
+Status: original",594,148,junior,0.75,"The repository has a basic folder structure and managed dependencies, but lacks tests, CI/CD, and Docker, indicating limited engineering maturity. The project is active and has multiple contributors, but the absence of testing and automation suggests it is not yet production-ready, typical of a junior-level codebase."
+intern,1249323523,individuum/dllm,Volunteer-trained EU-jurisdiction open language model — distributed DiLoCo training on consumer + cloud GPUs,Python,,0,0,0,1,316,False,False,0,2,True,3747,True,True,True,False,15,0.0,0.0,"Repository: individuum/dllm
+Description: ""Volunteer-trained EU-jurisdiction open language model — distributed DiLoCo training on consumer + cloud GPUs""
+Language: Python | Topics: nan
+Stars: 0 | Forks: 0 | Contributors: 1
+Size: 316 KB | Repo age: 2 days | Last commit: 0 days ago
+README: present (3,747 bytes)
+Tests: test folder present
+CI/CD: not configured
+Docker: Dockerfile present
+Dependencies: managed
+Root file count: 15
+Status: original",443,110,junior,0.75,"The repository has a basic folder structure, tests, and dependency management, indicating some engineering maturity. However, it lacks CI/CD, has only one contributor, and is very new (2 days), suggesting it is not yet production-ready or senior-level. The presence of a Dockerfile and tests pushes it above intern level, but the absence of CI/CD and limited scale keep it at junior."
+senior,481955061,laminlabs/lamindb,"Open-source data lakehouse for biology. Context and memory for datasets and models at scale, across infrastructure. Query, trace & validate with a lineage-native lakehouse that supports bio-formats, registries & ontologies. 🍊YC S22",Python,"comp-bio-ops,context-engineering,data-lakehouse,data-lineage,data-versioning,eln,feature-store,lims,ml-ops,observability,omics-data-integration,ontologies,open-source,traceability",267,25,38,19,11267,False,False,0,1503,True,19172,False,True,True,True,16,1.52,5.591,"Repository: laminlabs/lamindb
+Description: ""Open-source data lakehouse for biology. Context and memory for datasets and models at scale, across infrastructure. Query, trace & validate with a lineage-native lakehouse that supports bio-formats, registries & ontologies. 🍊YC S22""
+Language: Python | Topics: comp-bio-ops,context-engineering,data-lakehouse,data-lineage,data-versioning,eln,feature-store,lims,ml-ops,observability,omics-data-integration,ontologies,open-source,traceability
+Stars: 267 | Forks: 25 | Contributors: 19
+Size: 11,267 KB | Repo age: 1503 days | Last commit: 0 days ago
+README: present (19,172 bytes)
+Tests: test folder present
+CI/CD: configured
+Docker: absent
+Dependencies: managed
+Root file count: 16
+Status: original",739,184,senior,0.95,"The repository is a well-structured, production-grade open-source data lakehouse with comprehensive tests, CI/CD, dependency management, and clear documentation. With 267 stars, 19 contributors, and active maintenance, it demonstrates senior-level engineering practices suitable for a senior software engineering role."
+intern,1129903764,dishplate/AR-public,,Python,,0,0,0,1,89,False,False,0,140,True,65,False,False,False,False,11,0.0,0.0,"Repository: dishplate/AR-public
+Description: ""nan""
+Language: Python | Topics: nan
+Stars: 0 | Forks: 0 | Contributors: 1
+Size: 89 KB | Repo age: 140 days | Last commit: 0 days ago
+README: present (65 bytes)
+Tests: no test folder
+CI/CD: not configured
+Docker: absent
+Dependencies: no dependency file
+Root file count: 11
+Status: original",334,83,low_value,0.95,"The repository has no description, no tests, no CI/CD, no dependency file, and only 0 stars/forks with a single contributor. The tiny README (65 bytes) and minimal structure suggest it is either abandoned or a personal experiment with no engineering maturity or hiring signal."
+low_value,1300192,octocat/Spoon-Knife,This repo is for demonstration purposes only.,HTML,,13813,157326,20597,1,2,False,False,644,5599,True,780,False,False,False,False,3,0.1309,9.5334,"Repository: octocat/Spoon-Knife
+Description: ""This repo is for demonstration purposes only.""
+Language: HTML | Topics: nan
+Stars: 13,813 | Forks: 157,326 | Contributors: 1
+Size: 2 KB | Repo age: 5599 days | Last commit: 644 days ago
+README: present (780 bytes)
+Tests: no test folder
+CI/CD: not configured
+Docker: absent
+Dependencies: no dependency file
+Root file count: 3
+Status: original",387,96,low_value,0.95,"This repository is a tiny (2 KB) demo project with no tests, no CI/CD, no dependencies, and only 3 files. It has been abandoned for nearly 2 years and is explicitly for demonstration purposes only, providing no meaningful engineering signal for hiring decisions."
+junior,1148286335,mwakidenis/Network-Packet-Sniffer-Traffic-Analyse-GUI,"Captures & Analyses live network traffic in real time to detect suspicious activities using rule-based, MITRE-mapped, and machine-learning techniques.",Python,,6,1,0,3,803,False,False,0,114,True,8469,False,False,False,True,7,0.0,1.9459,"Repository: mwakidenis/Network-Packet-Sniffer-Traffic-Analyse-GUI
+Description: ""Captures & Analyses live network traffic in real time to detect suspicious activities using rule-based, MITRE-mapped, and machine-learning techniques.""
+Language: Python | Topics: nan
+Stars: 6 | Forks: 1 | Contributors: 3
+Size: 803 KB | Repo age: 114 days | Last commit: 0 days ago
+README: present (8,469 bytes)
+Tests: no test folder
+CI/CD: configured
+Docker: absent
+Dependencies: no dependency file
+Root file count: 7
+Status: original",514,128,senior,0.75,"The repository has a well-organized structure with multiple Python modules, CI/CD configured, and a comprehensive README. However, the absence of tests and dependency files suggests it may not be fully production-ready, but the overall quality and real-time traffic analysis with ML indicate senior-level engineering maturity."
+junior,1186717674,Surfboardv2ray/TGProto,Fetch MTProto and SOCKS5 proxies from Telegram Channels.,Python,"mtproto,mtproto-proxy,mtprotoproxy,proxy,proxy-list,proxy-scraper,proxypool,proxypools,socks5,socks5-proxy,socks5-proxy-list,tcp,tcp-protocol,tcping,telegrambot,telegramchannels,telegramscraper",12,0,1,2,4657,False,False,0,68,True,766,False,True,False,True,10,1.0,2.5649,"Repository: Surfboardv2ray/TGProto
+Description: ""Fetch MTProto and SOCKS5 proxies from Telegram Channels.""
+Language: Python | Topics: mtproto,mtproto-proxy,mtprotoproxy,proxy,proxy-list,proxy-scraper,proxypool,proxypools,socks5,socks5-proxy,socks5-proxy-list,tcp,tcp-protocol,tcping,telegrambot,telegramchannels,telegramscraper
+Stars: 12 | Forks: 0 | Contributors: 2
+Size: 4,657 KB | Repo age: 68 days | Last commit: 0 days ago
+README: present (766 bytes)
+Tests: no test folder
+CI/CD: configured
+Docker: absent
+Dependencies: managed
+Root file count: 10
+Status: original",569,142,senior,0.85,"The repository has a well-organized structure with 10 root files, dependency management, and CI/CD configured, indicating production-ready practices. It is a functional proxy scraper with clear documentation and recent activity, demonstrating senior-level engineering maturity. The presence of multiple contributors and a focused, non-trivial domain further supports this classification."
+lead_architect,13124802,influxdata/influxdb,"Scalable datastore for metrics, events, and real-time analytics",Rust,"database,go,influxdb,metrics,monitoring,react,rust,time-series",31511,3702,2145,316,209649,False,False,1,4626,True,23137,True,True,False,True,55,0.5794,10.3581,"Repository: influxdata/influxdb
+Description: ""Scalable datastore for metrics, events, and real-time analytics""
+Language: Rust | Topics: database,go,influxdb,metrics,monitoring,react,rust,time-series
+Stars: 31,511 | Forks: 3,702 | Contributors: 316
+Size: 209,649 KB | Repo age: 4626 days | Last commit: 1 days ago
+README: present (23,137 bytes)
+Tests: no test folder
+CI/CD: configured
+Docker: Dockerfile present
+Dependencies: managed
+Root file count: 55
+Status: original",469,117,lead_architect,0.95,"InfluxDB is a large-scale, multi-module time-series database with 31k+ stars, 316 contributors, and a complex architecture spanning Rust, Go, and React. It has extensive CI/CD, Docker support, and a long history of active development, reflecting systems-level thinking and organizational impact. Despite no explicit test folder, the project's maturity and community indicate production-ready practices suitable for a lead architect role."
+intern,1250738325,Tumelo-create/Dashboard-for-65-Tumelo,CA2 Dash for 65 +,Python,,0,0,0,1,13,False,False,0,0,False,0,False,True,False,False,6,0.0,0.0,"Repository: Tumelo-create/Dashboard-for-65-Tumelo
+Description: ""CA2 Dash for 65 +""
+Language: Python | Topics: nan
+Stars: 0 | Forks: 0 | Contributors: 1
+Size: 13 KB | Repo age: 0 days | Last commit: 0 days ago
+README: missing
+Tests: no test folder
+CI/CD: not configured
+Docker: absent
+Dependencies: managed
+Root file count: 6
+Status: original",341,85,intern,0.95,"The repository is very small (13 KB), has no README, no tests, no CI/CD, and only one contributor. It appears to be a simple script or dashboard project with minimal structure, typical of a beginner's work. For a recruiter, this indicates very early-stage engineering skills with little evidence of production readiness or collaboration."
+intern,1013470678,susfgdou/stats-array-variancepn,Calculate the variance of an array using the stats-array-variancepn library. Ideal for numerical and scientific computation in JavaScript. 🚀📊,JavaScript,"array,deviation,dispersion,javascript,mathematics,nodejs,sample-variance,standard-deviation,statistics,stats,stdlib,unbiased,var,variance",1,0,0,2,58,False,False,0,327,True,3956,False,True,True,False,24,0.0,0.6931,"Repository: susfgdou/stats-array-variancepn
+Description: ""Calculate the variance of an array using the stats-array-variancepn library. Ideal for numerical and scientific computation in JavaScript. 🚀📊""
+Language: JavaScript | Topics: array,deviation,dispersion,javascript,mathematics,nodejs,sample-variance,standard-deviation,statistics,stats,stdlib,unbiased,var,variance
+Stars: 1 | Forks: 0 | Contributors: 2
+Size: 58 KB | Repo age: 327 days | Last commit: 0 days ago
+README: present (3,956 bytes)
+Tests: test folder present
+CI/CD: not configured
+Docker: absent
+Dependencies: managed
+Root file count: 24
+Status: original",619,154,junior,0.85,"The repository has a basic folder structure and tests, but lacks CI/CD, Docker, and evidence of production-ready practices like code review or design patterns. With only 1 star and 2 contributors, it appears to be a small, functional project suitable for a junior developer."
+low_value,460264,schacon/showoff,moved to puppetlabs/showoff!,JavaScript,,2408,13,54,70,3149,True,False,958,5985,True,249,False,False,False,False,2,4.1538,7.787,"Repository: schacon/showoff
+Description: ""moved to puppetlabs/showoff!""
+Language: JavaScript | Topics: nan
+Stars: 2,408 | Forks: 13 | Contributors: 70
+Size: 3,149 KB | Repo age: 5985 days | Last commit: 958 days ago
+README: present (249 bytes)
+Tests: no test folder
+CI/CD: not configured
+Docker: absent
+Dependencies: no dependency file
+Root file count: 2
+Status: fork",367,91,low_value,0.95,"The repository is a fork that has been moved to another location (puppetlabs/showoff), with no recent activity (last commit 958 days ago), no tests, no CI/CD, and no dependency files. It provides no engineering signal for hiring decisions as it is essentially abandoned and not maintained."
+junior,1207991293,bvis/aegis-hass,Aegis — Unofficial Home Assistant integration for Ajax Security Systems and co-branded apps,Python,"aegis,ajax-systems,alarm-system,custom-component,hacs,home-assistant-integration,home-automation,homeassistant,security-system",40,9,1,3,4836,False,False,0,46,True,37452,False,True,True,True,22,0.1111,3.7136,"Repository: bvis/aegis-hass
+Description: ""Aegis — Unofficial Home Assistant integration for Ajax Security Systems and co-branded apps""
+Language: Python | Topics: aegis,ajax-systems,alarm-system,custom-component,hacs,home-assistant-integration,home-automation,homeassistant,security-system
+Stars: 40 | Forks: 9 | Contributors: 3
+Size: 4,836 KB | Repo age: 46 days | Last commit: 0 days ago
+README: present (37,452 bytes)
+Tests: test folder present
+CI/CD: configured
+Docker: absent
+Dependencies: managed
+Root file count: 22
+Status: original",538,134,senior,0.85,"The repository has a well-organized structure with tests, CI/CD, and dependency management, indicating production-ready practices. It is a custom Home Assistant integration with clear documentation and active maintenance, reflecting senior-level engineering maturity. The presence of multiple contributors and a focused scope further supports this classification."
+senior,246303277,ansible/galaxy_ng,Ansible Galaxy Server - Issues on https://forum.ansible.com Docs on https://galaxy-ng.readthedocs.io/,Python,"ansible,hacktoberfest,python",282,149,6,65,25642,False,False,0,2269,True,3875,True,True,False,True,39,0.0403,5.6454,"Repository: ansible/galaxy_ng
+Description: ""Ansible Galaxy Server - Issues on https://forum.ansible.com Docs on https://galaxy-ng.readthedocs.io/""
+Language: Python | Topics: ansible,hacktoberfest,python
+Stars: 282 | Forks: 149 | Contributors: 65
+Size: 25,642 KB | Repo age: 2269 days | Last commit: 0 days ago
+README: present (3,875 bytes)
+Tests: no test folder
+CI/CD: configured
+Docker: Dockerfile present
+Dependencies: managed
+Root file count: 39
+Status: original",465,116,senior,0.85,"The repository is a well-established, production-grade server with a large contributor base (65 contributors), CI/CD, Docker support, and dependency management. Despite the absence of a test folder, the project's maturity, active maintenance, and documentation indicate senior-level engineering practices. The high star and fork counts further support its production readiness."
+template_boilerplate,172227885,fastapi/full-stack-fastapi-template,"Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.",TypeScript,"backend,chakra-ui,docker,fastapi,frontend,json,json-schema,jwt,letsencrypt,openapi,postgresql,python,react,sqlmodel,swagger,tanstack-query,tanstack-router,traefik,typescript",43371,8590,25,76,5842,False,False,2,2650,True,9019,False,True,False,True,26,0.0029,10.6776,"Repository: fastapi/full-stack-fastapi-template
+Description: ""Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.""
+Language: TypeScript | Topics: backend,chakra-ui,docker,fastapi,frontend,json,json-schema,jwt,letsencrypt,openapi,postgresql,python,react,sqlmodel,swagger,tanstack-query,tanstack-router,traefik,typescript
+Stars: 43,371 | Forks: 8,590 | Contributors: 76
+Size: 5,842 KB | Repo age: 2650 days | Last commit: 2 days ago
+README: present (9,019 bytes)
+Tests: no test folder
+CI/CD: configured
+Docker: absent
+Dependencies: managed
+Root file count: 26
+Status: original",661,165,template_boilerplate,0.95,"The repository is explicitly described as a 'template' for full-stack applications, with a focus on scaffolding and starting new projects. It has high stars and forks, indicating widespread use as a boilerplate, but lacks tests and has a high root file count typical of template structures. For recruiters, this signals the author's ability to create reusable, production-ready templates rather than building a specific application."
+intern,1248615201,zaza6525/zaza-semantic-engine,"Local-first semantic search and document indexing engine — multi-format ingestion, hybrid search, CLI + REST API. No external APIs required.",Python,"chromadb,cli-tool,document-ingestion,embedding,local-first,multilingual,semantic-search,sentence-transformers",0,0,0,1,83,False,False,0,3,True,5084,False,True,True,True,12,0.0,0.0,"Repository: zaza6525/zaza-semantic-engine
+Description: ""Local-first semantic search and document indexing engine — multi-format ingestion, hybrid search, CLI + REST API. No external APIs required.""
+Language: Python | Topics: chromadb,cli-tool,document-ingestion,embedding,local-first,multilingual,semantic-search,sentence-transformers
+Stars: 0 | Forks: 0 | Contributors: 1
+Size: 83 KB | Repo age: 3 days | Last commit: 0 days ago
+README: present (5,084 bytes)
+Tests: test folder present
+CI/CD: configured
+Docker: absent
+Dependencies: managed
+Root file count: 12
+Status: original",578,144,senior,0.85,"The repository has a well-organized structure with a test folder, CI/CD configuration, and dependency management, indicating production-ready practices. The description and implementation of a local-first semantic search engine with CLI and REST API demonstrate solid engineering maturity. Although it's a new project with no stars or forks, the code quality and documentation suggest senior-level skills."
+intern,1251555472,rafaelUribe/atlassian-local-mcp,Local atlassian mcp for api key,JavaScript,,0,0,0,0,358,False,False,0,0,True,13778,False,True,False,False,17,0.0,0.0,"Repository: rafaelUribe/atlassian-local-mcp
+Description: ""Local atlassian mcp for api key""
+Language: JavaScript | Topics: nan
+Stars: 0 | Forks: 0 | Contributors: 0
+Size: 358 KB | Repo age: 0 days | Last commit: 0 days ago
+README: present (13,778 bytes)
+Tests: no test folder
+CI/CD: not configured
+Docker: absent
+Dependencies: managed
+Root file count: 17
+Status: original",370,92,junior,0.85,"The repository has a basic folder structure and manages dependencies, but lacks tests, CI/CD, and Docker, indicating a functional but not production-ready project. The small size, single contributor, and absence of testing suggest junior-level engineering maturity."
+template_boilerplate,157021071,MichaelCurrin/py-project-template,Starter template for a Python app - including CI and docs 🐍 🌠,Python,"boilerplate,python,python3,quickstart,scaffolding,skeleton,starter,template",9,4,16,2,304,False,False,226,2755,True,1750,False,True,True,True,19,4.0,2.3026,"Repository: MichaelCurrin/py-project-template
+Description: ""Starter template for a Python app - including CI and docs 🐍 🌠""
+Language: Python | Topics: boilerplate,python,python3,quickstart,scaffolding,skeleton,starter,template
+Stars: 9 | Forks: 4 | Contributors: 2
+Size: 304 KB | Repo age: 2755 days | Last commit: 226 days ago
+README: present (1,750 bytes)
+Tests: test folder present
+CI/CD: configured
+Docker: absent
+Dependencies: managed
+Root file count: 19
+Status: original",475,118,template_boilerplate,0.95,"The repository is explicitly a starter template for Python apps, with boilerplate code, CI configuration, and documentation intended for reuse. Its primary purpose is scaffolding, not production deployment, which aligns with the template_boilerplate category. For recruiters, this indicates the author can create reusable, well-structured foundations but not necessarily build and maintain a live production system."
+template_boilerplate,1062897,github/gitignore,A collection of useful .gitignore templates,unknown,"git,gitignore",174113,82477,63,413,3137,False,False,6,5679,True,5624,False,False,False,True,169,0.0008,12.0675,"Repository: github/gitignore
+Description: ""A collection of useful .gitignore templates""
+Language: unknown | Topics: git,gitignore
+Stars: 174,113 | Forks: 82,477 | Contributors: 413
+Size: 3,137 KB | Repo age: 5679 days | Last commit: 6 days ago
+README: present (5,624 bytes)
+Tests: no test folder
+CI/CD: configured
+Docker: absent
+Dependencies: no dependency file
+Root file count: 169
+Status: original",399,99,template_boilerplate,0.95,"This repository is explicitly a collection of .gitignore templates meant to be copied or scaffolded, not a production application. It has no tests, no dependency management, and its primary value is as a reusable starting point, which aligns with the template_boilerplate category."
+intern,1191105148,DevSykes/Proyecto-3-Katas-Python,3er proyecto de Máster,Python,,2,0,0,1,26,False,False,0,63,False,0,False,False,False,False,1,0.0,1.0986,"Repository: DevSykes/Proyecto-3-Katas-Python
+Description: ""3er proyecto de Máster""
+Language: Python | Topics: nan
+Stars: 2 | Forks: 0 | Contributors: 1
+Size: 26 KB | Repo age: 63 days | Last commit: 0 days ago
+README: missing
+Tests: no test folder
+CI/CD: not configured
+Docker: absent
+Dependencies: no dependency file
+Root file count: 1
+Status: original",353,88,intern,0.95,"The repository contains a single Python file with no tests, no documentation, no CI/CD, and no dependency management, typical of a student project. The small size, lack of structure, and absence of any engineering practices indicate an intern-level maturity."
+intern,1251719482,empyreandance/hrrr-ingest,HRRR Threshold Tool — hourly ingest worker (HRRR → parameters/composites → Zarr on Cloudflare R2),Python,,0,0,0,1,111,False,False,0,0,True,1311,False,False,False,False,6,0.0,0.0,"Repository: empyreandance/hrrr-ingest
+Description: ""HRRR Threshold Tool — hourly ingest worker (HRRR → parameters/composites → Zarr on Cloudflare R2)""
+Language: Python | Topics: nan
+Stars: 0 | Forks: 0 | Contributors: 1
+Size: 111 KB | Repo age: 0 days | Last commit: 0 days ago
+README: present (1,311 bytes)
+Tests: no test folder
+CI/CD: not configured
+Docker: absent
+Dependencies: no dependency file
+Root file count: 6
+Status: original",435,108,intern,0.85,"The repository is a single-contributor project with no tests, no CI/CD, no dependency file, and minimal structure (6 root files). The description suggests a specific ingest worker, but the lack of testing, documentation, and engineering practices indicates an early-stage or hobby project, typical of an intern-level developer."
+senior,59858718,Pyomo/pyomo,An object-oriented algebraic modeling language in Python for structured optimization problems.,Python,"linear-programming,mathematical-programming,modeling-language,nonlinear-programming,optimization,python",2463,579,354,145,106485,False,False,0,3652,True,5596,False,True,False,True,22,0.6114,7.8095,"Repository: Pyomo/pyomo
+Description: ""An object-oriented algebraic modeling language in Python for structured optimization problems.""
+Language: Python | Topics: linear-programming,mathematical-programming,modeling-language,nonlinear-programming,optimization,python
+Stars: 2,463 | Forks: 579 | Contributors: 145
+Size: 106,485 KB | Repo age: 3652 days | Last commit: 0 days ago
+README: present (5,596 bytes)
+Tests: no test folder
+CI/CD: configured
+Docker: absent
+Dependencies: managed
+Root file count: 22
+Status: original",519,129,lead_architect,0.95,"Pyomo is a large-scale, multi-module optimization framework with 145 contributors, 2,463 stars, and a 10-year history, indicating sustained community impact and complex architecture. The presence of CI/CD, dependency management, and extensive documentation (5,596-byte README) reflects production-ready practices and systems-level thinking. Despite no explicit test folder, the project's maturity and organizational significance align with lead_architect level."
+senior,914053359,OpenMind/OM1,Modular AI runtime for robots,Python,"llm,multiagent,robotics,ros2,zenoh",2799,991,114,117,172436,False,False,0,504,True,9642,True,True,True,True,26,0.115,7.9374,"Repository: OpenMind/OM1
+Description: ""Modular AI runtime for robots""
+Language: Python | Topics: llm,multiagent,robotics,ros2,zenoh
+Stars: 2,799 | Forks: 991 | Contributors: 117
+Size: 172,436 KB | Repo age: 504 days | Last commit: 0 days ago
+README: present (9,642 bytes)
+Tests: test folder present
+CI/CD: configured
+Docker: Dockerfile present
+Dependencies: managed
+Root file count: 26
+Status: original",402,100,lead_architect,0.95,"This repository is a large-scale, multi-module AI runtime for robotics with 2,799 stars, 117 contributors, extensive tests, CI/CD, Docker support, and a well-organized structure. The high contributor count, complex architecture, and production-ready practices indicate systems-level thinking and organizational impact, fitting the lead_architect category."
+senior,1045768564,cenodude/CrossWatch,"Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  PublicMetaDB, AniList, TMDb, MDBlist, and more. Keep your movies and shows in sync, no matter where you watch.",Python,"anilist,emby,jellyfin,mdblist,media-sync,media-synchronisation,plex,plex-media-server,simkl,tautulli,tmdb,trakt,watcher,webhook",599,12,7,1,31690,False,False,0,273,True,5834,True,True,True,True,30,0.5833,6.3969,"Repository: cenodude/CrossWatch
+Description: ""Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  PublicMetaDB, AniList, TMDb, MDBlist, and more. Keep your movies and shows in sync, no matter where you watch.""
+Language: Python | Topics: anilist,emby,jellyfin,mdblist,media-sync,media-synchronisation,plex,plex-media-server,simkl,tautulli,tmdb,trakt,watcher,webhook
+Stars: 599 | Forks: 12 | Contributors: 1
+Size: 31,690 KB | Repo age: 273 days | Last commit: 0 days ago
+README: present (5,834 bytes)
+Tests: test folder present
+CI/CD: configured
+Docker: Dockerfile present
+Dependencies: managed
+Root file count: 30
+Status: original",643,160,senior,0.85,"The repository has a well-organized structure with tests, CI/CD, Docker support, and dependency management, indicating production-ready practices. The codebase is non-trivial (31MB, 30 root files) and actively maintained, but the single contributor and lack of multi-module architecture prevent it from reaching lead_architect level."
+senior,170296325,icopy-site/awesome,collection of awesome lists,Python,"awesome,awesome-blockchain,awesome-code,awesome-css,awesome-flutter,awesome-go,awesome-java,awesome-javascript,awesome-list,awesome-lists,awesome-python,awesome-reactjs,awesome-swift,awesome-vue,awesomeness,learn-java,learn-javascript,learn-js,learn-to-code,learning",340,66,11,1,79709,False,False,0,2661,True,514,True,True,False,True,13,0.1667,5.8319,"Repository: icopy-site/awesome
+Description: ""collection of awesome lists""
+Language: Python | Topics: awesome,awesome-blockchain,awesome-code,awesome-css,awesome-flutter,awesome-go,awesome-java,awesome-javascript,awesome-list,awesome-lists,awesome-python,awesome-reactjs,awesome-swift,awesome-vue,awesomeness,learn-java,learn-javascript,learn-js,learn-to-code,learning
+Stars: 340 | Forks: 66 | Contributors: 1
+Size: 79,709 KB | Repo age: 2661 days | Last commit: 0 days ago
+README: present (514 bytes)
+Tests: no test folder
+CI/CD: configured
+Docker: Dockerfile present
+Dependencies: managed
+Root file count: 13
+Status: original",626,156,low_value,0.95,"This repository is a collection of links to other awesome lists, not a software project with original engineering content. Despite having CI/CD and a Dockerfile, it lacks tests, has minimal code, and its primary purpose is curation, not development. For a recruiter, it provides no signal of software engineering ability."
+lead_architect,93446075,hashicorp/terraform-provider-google,Terraform Provider for Google Cloud Platform,Go,"google-cloud,terraform,terraform-provider",2615,1900,2345,402,250327,False,False,0,3278,True,2970,False,True,False,True,30,1.2342,7.8694,"Repository: hashicorp/terraform-provider-google
+Description: ""Terraform Provider for Google Cloud Platform""
+Language: Go | Topics: google-cloud,terraform,terraform-provider
+Stars: 2,615 | Forks: 1,900 | Contributors: 402
+Size: 250,327 KB | Repo age: 3278 days | Last commit: 0 days ago
+README: present (2,970 bytes)
+Tests: no test folder
+CI/CD: configured
+Docker: absent
+Dependencies: managed
+Root file count: 30
+Status: original",429,107,lead_architect,0.95,"This is a large-scale, multi-module Terraform provider with 402 contributors, extensive CI/CD, and a complex codebase (250 MB, 30 root files). It demonstrates systems-level thinking and organizational impact, typical of a lead architect. The high star and fork counts, along with active maintenance, confirm its production-grade maturity."
+senior,517749777,15r10nk/inline-snapshot,inline-snapshot boosts efficiency when writing tests by generating code with the expected values and simplifies snapshot tests with pytest.,Python,"approval-testing,golden-master,pytest,pytest-plugin,python,snapshot,snapshot-plugin,snapshot-test,snapshot-testing,snapshot-tests,snapshottest,testing",731,25,28,14,14056,False,False,0,1402,True,8350,False,True,True,True,20,1.12,6.5958,"Repository: 15r10nk/inline-snapshot
+Description: ""inline-snapshot boosts efficiency when writing tests by generating code with the expected values and simplifies snapshot tests with pytest.""
+Language: Python | Topics: approval-testing,golden-master,pytest,pytest-plugin,python,snapshot,snapshot-plugin,snapshot-test,snapshot-testing,snapshot-tests,snapshottest,testing
+Stars: 731 | Forks: 25 | Contributors: 14
+Size: 14,056 KB | Repo age: 1402 days | Last commit: 0 days ago
+README: present (8,350 bytes)
+Tests: test folder present
+CI/CD: configured
+Docker: absent
+Dependencies: managed
+Root file count: 20
+Status: original",623,155,senior,0.95,"The repository is well-organized with a clear test folder, CI/CD configured, dependency management, and a comprehensive README. It has 14 contributors, 731 stars, and is actively maintained (last commit 0 days ago), indicating production-ready practices and collaborative development. The project is a pytest plugin with a specific testing focus, demonstrating solid engineering maturity without being a large-scale multi-module system."
+lead_architect,74293321,sveltejs/svelte,web development for the rest of us,JavaScript,"compiler,template,ui",86640,4922,1008,410,121045,False,False,0,3475,True,1730,False,True,False,True,29,0.2048,11.3695,"Repository: sveltejs/svelte
+Description: ""web development for the rest of us""
+Language: JavaScript | Topics: compiler,template,ui
+Stars: 86,640 | Forks: 4,922 | Contributors: 410
+Size: 121,045 KB | Repo age: 3475 days | Last commit: 0 days ago
+README: present (1,730 bytes)
+Tests: no test folder
+CI/CD: configured
+Docker: absent
+Dependencies: managed
+Root file count: 29
+Status: original",387,96,lead_architect,0.95,"Svelte is a large-scale, multi-module compiler and UI framework with 86k+ stars, 410 contributors, and a complex codebase (121MB). It has advanced CI/CD, dependency management, and extensive documentation, reflecting systems-level thinking and organizational impact. Despite no explicit test folder, the project's maturity and community scale clearly place it at the lead architect level."
+intern,1003209772,launchbynttdata/launch-workflows,,Python,,1,0,3,6,482,False,False,0,345,True,418,False,False,False,True,6,3.0,0.6931,"Repository: launchbynttdata/launch-workflows
+Description: ""nan""
+Language: Python | Topics: nan
+Stars: 1 | Forks: 0 | Contributors: 6
+Size: 482 KB | Repo age: 345 days | Last commit: 0 days ago
+README: present (418 bytes)
+Tests: no test folder
+CI/CD: configured
+Docker: absent
+Dependencies: no dependency file
+Root file count: 6
+Status: original",344,86,low_value,0.85,"The repository has only 1 star, no tests, no dependency file, and a minimal README (418 bytes). Despite having CI/CD and multiple contributors, the lack of tests, dependencies, and Docker suggests it is not a production-ready project and likely serves a low-value purpose such as a demo or internal tool with no hiring signal."
+senior,15923295,pycalphad/pycalphad,"CALPHAD tools for designing thermodynamic models, calculating phase diagrams and investigating phase equilibria.",Python,"calphad,materials,materials-science,pycalphad,python,thermodynamics",382,133,45,25,86640,False,False,0,4515,True,3738,False,True,False,True,16,0.3383,5.948,"Repository: pycalphad/pycalphad
+Description: ""CALPHAD tools for designing thermodynamic models, calculating phase diagrams and investigating phase equilibria.""
+Language: Python | Topics: calphad,materials,materials-science,pycalphad,python,thermodynamics
+Stars: 382 | Forks: 133 | Contributors: 25
+Size: 86,640 KB | Repo age: 4515 days | Last commit: 0 days ago
+README: present (3,738 bytes)
+Tests: no test folder
+CI/CD: configured
+Docker: absent
+Dependencies: managed
+Root file count: 16
+Status: original",505,126,senior,0.85,"The repository is a well-established, production-grade scientific library with 382 stars, 133 forks, and 25 contributors, indicating a mature codebase. It has CI/CD, dependency management, and a long history (4515 days) with recent commits, but lacks a dedicated test folder, which prevents a higher classification. For a recruiter, this signals strong engineering practices and domain expertise suitable for senior roles."
+intern,1217955027,jsherman999/BrickBlade,Lego analyzer,Python,,0,0,0,1,128,False,False,0,35,True,3139,False,True,True,False,12,0.0,0.0,"Repository: jsherman999/BrickBlade
+Description: ""Lego analyzer""
+Language: Python | Topics: nan
+Stars: 0 | Forks: 0 | Contributors: 1
+Size: 128 KB | Repo age: 35 days | Last commit: 0 days ago
+README: present (3,139 bytes)
+Tests: test folder present
+CI/CD: not configured
+Docker: absent
+Dependencies: managed
+Root file count: 12
+Status: original",344,86,junior,0.85,"The repository has a basic folder structure and includes a test folder, indicating some engineering discipline, but lacks CI/CD, Docker, and has minimal documentation. With only one contributor and no evidence of design patterns or production readiness, it aligns with junior-level maturity."
+lead_architect,160999,apache/zookeeper,Apache ZooKeeper,Java,"apache,configuration-management,consensus,coordination,database,distributed-configuration,distributed-database,distributed-systems,hacktoberfest,java,key-value,service-discovery,zab,zookeeper",12766,7332,233,250,154781,False,False,8,6270,True,3570,False,True,False,True,35,0.0318,9.4546,"Repository: apache/zookeeper
+Description: ""Apache ZooKeeper""
+Language: Java | Topics: apache,configuration-management,consensus,coordination,database,distributed-configuration,distributed-database,distributed-systems,hacktoberfest,java,key-value,service-discovery,zab,zookeeper
+Stars: 12,766 | Forks: 7,332 | Contributors: 250
+Size: 154,781 KB | Repo age: 6270 days | Last commit: 8 days ago
+README: present (3,570 bytes)
+Tests: no test folder
+CI/CD: configured
+Docker: absent
+Dependencies: managed
+Root file count: 35
+Status: original",535,133,lead_architect,0.95,"Apache ZooKeeper is a large-scale, multi-module distributed coordination service with a complex architecture, extensive test suites, advanced CI/CD, and a large contributor community (250 contributors). It demonstrates systems-level thinking and organizational impact, fitting the lead_architect category despite the absence of a test folder in the root (tests are likely in submodules)."
+senior,1215678767,agentforce314/clawcodex,Claude Code full Python rebuild. AI Coding Agent in 180K LoC pure Python!,Python,"agent,ai,ai-agent,ai-coding,claude,claude-code,cli,code,codex,coding,coding-agent,deepseek,llm,python",255,23,10,3,13105,False,False,0,37,True,25927,False,True,True,False,18,0.4348,5.5452,"Repository: agentforce314/clawcodex
+Description: ""Claude Code full Python rebuild. AI Coding Agent in 180K LoC pure Python!""
+Language: Python | Topics: agent,ai,ai-agent,ai-coding,claude,claude-code,cli,code,codex,coding,coding-agent,deepseek,llm,python
+Stars: 255 | Forks: 23 | Contributors: 3
+Size: 13,105 KB | Repo age: 37 days | Last commit: 0 days ago
+README: present (25,927 bytes)
+Tests: test folder present
+CI/CD: not configured
+Docker: absent
+Dependencies: managed
+Root file count: 18
+Status: original",510,127,senior,0.85,"The repository is a large-scale (180K LoC) pure Python rebuild of Claude Code with a well-organized structure, test folder, dependency management, and active development (255 stars, recent commits). Despite lacking CI/CD, the codebase shows production-ready practices and architectural thinking, indicating senior-level engineering maturity."
+junior,1074225314,kamogashira-sys/q-cli-docs,Amazon Q Developer CLI Documentation Project,Python,,12,0,0,1,2365,False,False,0,228,True,23511,False,False,False,True,11,0.0,2.5649,"Repository: kamogashira-sys/q-cli-docs
+Description: ""Amazon Q Developer CLI Documentation Project""
+Language: Python | Topics: nan
+Stars: 12 | Forks: 0 | Contributors: 1
+Size: 2,365 KB | Repo age: 228 days | Last commit: 0 days ago
+README: present (23,511 bytes)
+Tests: no test folder
+CI/CD: configured
+Docker: absent
+Dependencies: no dependency file
+Root file count: 11
+Status: original",386,96,senior,0.85,"The repository has a well-organized structure with 11 root files, CI/CD configured, and a substantial README (23,511 bytes) indicating solid documentation. Despite lacking tests and dependency files, the active maintenance (last commit 0 days ago) and production-ready practices like CI/CD suggest senior-level engineering maturity."
+intern,1251547960,hhkarimi/claude-shopping-skills,Claude Code plugin for comparison shopping on Amazon. Includes a stealth Playwright scraper and a protein-powder ranker.,Python,,0,0,0,3,90,False,False,0,0,True,3236,False,False,True,True,12,0.0,0.0,"Repository: hhkarimi/claude-shopping-skills
+Description: ""Claude Code plugin for comparison shopping on Amazon. Includes a stealth Playwright scraper and a protein-powder ranker.""
+Language: Python | Topics: nan
+Stars: 0 | Forks: 0 | Contributors: 3
+Size: 90 KB | Repo age: 0 days | Last commit: 0 days ago
+README: present (3,236 bytes)
+Tests: test folder present
+CI/CD: configured
+Docker: absent
+Dependencies: no dependency file
+Root file count: 12
+Status: original",465,116,senior,0.85,"The repository has a well-organized structure with a test folder and CI/CD configured, indicating production-ready practices. The presence of a Playwright scraper and a ranker shows modular design and clear separation of concerns. Despite being new and having no stars, the engineering signals (tests, CI/CD, documentation) point to a senior-level codebase."
+template_boilerplate,44416666,electron/minimal-repro,Clone to try a simple Electron app,JavaScript,,11446,4917,14,52,1350,False,False,1,3876,True,2341,False,True,False,True,11,0.0028,9.3455,"Repository: electron/minimal-repro
+Description: ""Clone to try a simple Electron app""
+Language: JavaScript | Topics: nan
+Stars: 11,446 | Forks: 4,917 | Contributors: 52
+Size: 1,350 KB | Repo age: 3876 days | Last commit: 1 days ago
+README: present (2,341 bytes)
+Tests: no test folder
+CI/CD: configured
+Docker: absent
+Dependencies: managed
+Root file count: 11
+Status: original",374,93,template_boilerplate,0.95,"The repository is explicitly described as a minimal repro for trying a simple Electron app, with no tests and a small number of files, indicating it is intended as a starting point or template. Despite having CI/CD and dependency management, the lack of tests and the explicit purpose of being cloned for experimentation align with a template/boilerplate classification. For a recruiter, this repo shows the author can create a reusable scaffold but does not demonstrate production-level engineering practices."
+intern,1206466527,daytonhd/calia-smart-scheduling,"Full-stack smart scheduling app with FastAPI, SQLModel, PostgreSQL, Docker, and Next.js. Supports event CRUD, conflict detection, slot suggestions, rescheduling options, and schedule metrics.",Python,,0,0,0,1,326,False,False,0,47,True,0,False,False,False,False,5,0.0,0.0,"Repository: daytonhd/calia-smart-scheduling
+Description: ""Full-stack smart scheduling app with FastAPI, SQLModel, PostgreSQL, Docker, and Next.js. Supports event CRUD, conflict detection, slot suggestions, rescheduling options, and schedule metrics.""
+Language: Python | Topics: nan
+Stars: 0 | Forks: 0 | Contributors: 1
+Size: 326 KB | Repo age: 47 days | Last commit: 0 days ago
+README: present (0 bytes)
+Tests: no test folder
+CI/CD: not configured
+Docker: absent
+Dependencies: no dependency file
+Root file count: 5
+Status: original",532,133,junior,0.85,"The repository has a basic folder structure and uses modern technologies (FastAPI, Next.js, Docker), but lacks tests, CI/CD, dependency files, and has a very small size and single contributor. This indicates early-stage development with some structure but not yet production-ready practices."
+lead_architect,341631350,apache/lucene,Apache Lucene open-source search software,Java,"backend,information-retrieval,java,lucene,nosql,search,search-engine",3435,1361,2581,316,534931,False,False,0,1919,True,3054,False,False,False,True,29,1.8964,8.1421,"Repository: apache/lucene
+Description: ""Apache Lucene open-source search software""
+Language: Java | Topics: backend,information-retrieval,java,lucene,nosql,search,search-engine
+Stars: 3,435 | Forks: 1,361 | Contributors: 316
+Size: 534,931 KB | Repo age: 1919 days | Last commit: 0 days ago
+README: present (3,054 bytes)
+Tests: no test folder
+CI/CD: configured
+Docker: absent
+Dependencies: no dependency file
+Root file count: 29
+Status: original",444,111,lead_architect,0.95,"Apache Lucene is a large-scale, multi-module search engine library with 316 contributors, extensive CI/CD, and a long history of production use. The repository demonstrates systems-level architecture, high community engagement, and organizational impact, fitting the lead_architect profile despite the absence of a test folder in the root (tests are likely in submodules)."
+junior,1110860089,sanyam-katoch10/BOtShield_ML-CAPTCHA-Refinement-System,ML-powered CAPTCHA refinement system balancing human usability and bot resistance,Python,,18,0,0,2,4071,False,False,0,173,True,6005,False,True,False,True,10,0.0,2.9444,"Repository: sanyam-katoch10/BOtShield_ML-CAPTCHA-Refinement-System
+Description: ""ML-powered CAPTCHA refinement system balancing human usability and bot resistance""
+Language: Python | Topics: nan
+Stars: 18 | Forks: 0 | Contributors: 2
+Size: 4,071 KB | Repo age: 173 days | Last commit: 0 days ago
+README: present (6,005 bytes)
+Tests: no test folder
+CI/CD: configured
+Docker: absent
+Dependencies: managed
+Root file count: 10
+Status: original",439,109,senior,0.85,"The repository has a well-organized structure with 10 root files, CI/CD configured, dependency management, and a detailed README. Despite lacking a test folder, the presence of CI/CD and a clear description of a production-ready ML system indicate senior-level engineering practices. The project is actively maintained with recent commits and has a focused, non-trivial purpose."
+junior,980238476,irfanbob26/AI-Chatbot,"AI-powered chatbot built with Python, NLP, and Flask — automate customer support queries with intent recognition and dynamic responses.",Python,"agent,ai-agent,ai-chatbot-framework,chatgpt,copilot,discord-bot,gpt4,hacktoberfest,help-wanted,langchain,nlp,open-source,redis,svelte",7,5,1,2,540,False,False,0,384,True,5469,False,True,False,False,8,0.2,2.0794,"Repository: irfanbob26/AI-Chatbot
+Description: ""AI-powered chatbot built with Python, NLP, and Flask — automate customer support queries with intent recognition and dynamic responses.""
+Language: Python | Topics: agent,ai-agent,ai-chatbot-framework,chatgpt,copilot,discord-bot,gpt4,hacktoberfest,help-wanted,langchain,nlp,open-source,redis,svelte
+Stars: 7 | Forks: 5 | Contributors: 2
+Size: 540 KB | Repo age: 384 days | Last commit: 0 days ago
+README: present (5,469 bytes)
+Tests: no test folder
+CI/CD: not configured
+Docker: absent
+Dependencies: managed
+Root file count: 8
+Status: original",590,147,junior,0.85,"The repository has a basic folder structure and managed dependencies, but lacks tests, CI/CD, and Docker, indicating limited engineering maturity. The presence of a README and recent commits suggest active development, but the absence of testing and automation signals a junior-level codebase not yet production-ready."
+senior,99623500,awslabs/open-data-registry,A registry of publicly available datasets on AWS,Python,,1715,1163,113,401,11385,False,False,0,3215,True,11582,False,True,False,False,15,0.0972,7.4478,"Repository: awslabs/open-data-registry
+Description: ""A registry of publicly available datasets on AWS""
+Language: Python | Topics: nan
+Stars: 1,715 | Forks: 1,163 | Contributors: 401
+Size: 11,385 KB | Repo age: 3215 days | Last commit: 0 days ago
+README: present (11,582 bytes)
+Tests: no test folder
+CI/CD: not configured
+Docker: absent
+Dependencies: managed
+Root file count: 15
+Status: original",394,98,senior,0.85,"The repository is well-organized with a clear structure, dependency management, and a large number of contributors (401) indicating collaborative development. Despite lacking explicit test folders and CI/CD configuration, the project is actively maintained (last commit 0 days ago) and serves as a production-grade registry of public datasets, demonstrating senior-level engineering practices."
+lead_architect,44350607,kubernetes-retired/dashboard,General-purpose web UI for Kubernetes clusters,Go,,15428,4277,166,365,184430,False,True,126,3877,True,4617,False,False,False,True,24,0.0388,9.644,"Repository: kubernetes-retired/dashboard
+Description: ""General-purpose web UI for Kubernetes clusters""
+Language: Go | Topics: nan
+Stars: 15,428 | Forks: 4,277 | Contributors: 365
+Size: 184,430 KB | Repo age: 3877 days | Last commit: 126 days ago
+README: present (4,617 bytes)
+Tests: no test folder
+CI/CD: configured
+Docker: absent
+Dependencies: no dependency file
+Root file count: 24
+Status: original | archived",411,102,low_value,0.95,"The repository is archived (retired), indicating it is no longer maintained. Despite its historical popularity and large contributor base, the archived status and lack of recent activity make it unsuitable for assessing current engineering skills. Recruiters should focus on active projects."
+template_boilerplate,8138462,yeoman/yo,CLI tool for running Yeoman generators,JavaScript,"generator,javascript,nodejs,scaffolding,templates,yeoman",3955,406,36,63,2996,False,False,48,4853,True,7348,False,True,True,True,13,0.0887,8.283,"Repository: yeoman/yo
+Description: ""CLI tool for running Yeoman generators""
+Language: JavaScript | Topics: generator,javascript,nodejs,scaffolding,templates,yeoman
+Stars: 3,955 | Forks: 406 | Contributors: 63
+Size: 2,996 KB | Repo age: 4853 days | Last commit: 48 days ago
+README: present (7,348 bytes)
+Tests: test folder present
+CI/CD: configured
+Docker: absent
+Dependencies: managed
+Root file count: 13
+Status: original",421,105,lead_architect,0.95,"This repository is a mature, widely-used CLI tool with a large contributor community (63 contributors), extensive test suite, CI/CD pipeline, and clear documentation. Its long lifespan (4853 days) and high star count (3,955) indicate sustained engineering excellence and organizational impact, typical of a lead architect-level project."
+senior,930187154,SpaceTimee/Fusion-JetBrainsMapleMono,JetBrains Maple Mono: The free and open-source font fused with JetBrains Mono & Maple Mono,Python,"font,fusion,github-actions,github-workflows,jetbrains-mono,jetbrainsmaplemono,maple-font,maple-mono",2065,41,7,2,146641,False,False,0,471,True,3875,False,False,False,True,5,0.1707,7.6334,"Repository: SpaceTimee/Fusion-JetBrainsMapleMono
+Description: ""JetBrains Maple Mono: The free and open-source font fused with JetBrains Mono & Maple Mono""
+Language: Python | Topics: font,fusion,github-actions,github-workflows,jetbrains-mono,jetbrainsmaplemono,maple-font,maple-mono
+Stars: 2,065 | Forks: 41 | Contributors: 2
+Size: 146,641 KB | Repo age: 471 days | Last commit: 0 days ago
+README: present (3,875 bytes)
+Tests: no test folder
+CI/CD: configured
+Docker: absent
+Dependencies: no dependency file
+Root file count: 5
+Status: original",542,135,senior,0.85,"The repository is well-organized with a clear purpose (font fusion), has CI/CD configured, and a comprehensive README. Despite lacking tests and dependency files, the high star count, active maintenance, and professional workflow indicate production-ready practices suitable for a senior engineer."
+junior,1160034620,agentcage/agentcage,Defense-in-depth proxy sandbox for AI agents,Python,,13,2,10,4,2437,False,False,0,99,True,9334,False,True,True,True,17,5.0,2.6391,"Repository: agentcage/agentcage
+Description: ""Defense-in-depth proxy sandbox for AI agents""
+Language: Python | Topics: nan
+Stars: 13 | Forks: 2 | Contributors: 4
+Size: 2,437 KB | Repo age: 99 days | Last commit: 0 days ago
+README: present (9,334 bytes)
+Tests: test folder present
+CI/CD: configured
+Docker: absent
+Dependencies: managed
+Root file count: 17
+Status: original",371,92,senior,0.85,"The repository has a well-organized structure with tests, CI/CD, dependency management, and a clear README describing a production-ready proxy sandbox for AI agents. The presence of multiple contributors and active development (last commit today) indicates a mature, collaborative project suitable for a senior engineer."
+senior,376621261,Michaelpalacce/HomeLab,My HomeLab environment,Python,,218,7,9,3,18018,False,False,0,1809,True,5729,False,False,False,True,12,1.2857,5.3891,"Repository: Michaelpalacce/HomeLab
+Description: ""My HomeLab environment""
+Language: Python | Topics: nan
+Stars: 218 | Forks: 7 | Contributors: 3
+Size: 18,018 KB | Repo age: 1809 days | Last commit: 0 days ago
+README: present (5,729 bytes)
+Tests: no test folder
+CI/CD: configured
+Docker: absent
+Dependencies: no dependency file
+Root file count: 12
+Status: original",362,90,senior,0.85,"The repository is well-organized with a clear structure, CI/CD configured, and a substantial README. Despite lacking tests and dependency files, the active maintenance, multiple contributors, and production-ready practices (e.g., CI/CD) indicate senior-level engineering maturity. The absence of tests is a minor gap, but the overall signals point to a senior developer managing a homelab environment."
+lead_architect,927442,postgres/postgres,"Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch",C,,21010,5671,0,42,743824,False,False,0,5727,True,989,False,False,False,True,24,0.0,9.9528,"Repository: postgres/postgres
+Description: ""Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch""
+Language: C | Topics: nan
+Stars: 21,010 | Forks: 5,671 | Contributors: 42
+Size: 743,824 KB | Repo age: 5727 days | Last commit: 0 days ago
+README: present (989 bytes)
+Tests: no test folder
+CI/CD: configured
+Docker: absent
+Dependencies: no dependency file
+Root file count: 24
+Status: original",544,136,lead_architect,0.95,"This is the official PostgreSQL mirror, a massive, decades-old, production-grade database system with 21k stars, 5.6k forks, and 42 contributors. It exhibits complex architecture, extensive CI/CD, and a large codebase (743 MB), reflecting systems-level thinking and organizational impact typical of a lead architect."
+template_boilerplate,304344049,sveltejs/kit,"web development, streamlined",JavaScript,svelte,20534,2253,1028,452,35921,False,False,0,2050,True,3276,False,True,False,True,27,0.4563,9.9299,"Repository: sveltejs/kit
+Description: ""web development, streamlined""
+Language: JavaScript | Topics: svelte
+Stars: 20,534 | Forks: 2,253 | Contributors: 452
+Size: 35,921 KB | Repo age: 2050 days | Last commit: 0 days ago
+README: present (3,276 bytes)
+Tests: no test folder
+CI/CD: configured
+Docker: absent
+Dependencies: managed
+Root file count: 27
+Status: original",363,90,senior,0.95,"SvelteKit is a well-organized, production-ready framework with extensive CI/CD, dependency management, and a large contributor community. Despite the absence of a test folder, the repository shows clear module boundaries, solid documentation, and evidence of code review, indicating senior-level engineering maturity."
+lead_architect,1090311,elastic/logstash,"Logstash - transport and process your logs, events, or other data",Java,"etl-framework,java,jruby,logging,real-time-processing,streaming",14860,3501,2242,342,134447,False,False,0,5669,True,10085,False,False,True,True,51,0.6404,9.6065,"Repository: elastic/logstash
+Description: ""Logstash - transport and process your logs, events, or other data""
+Language: Java | Topics: etl-framework,java,jruby,logging,real-time-processing,streaming
+Stars: 14,860 | Forks: 3,501 | Contributors: 342
+Size: 134,447 KB | Repo age: 5669 days | Last commit: 0 days ago
+README: present (10,085 bytes)
+Tests: test folder present
+CI/CD: configured
+Docker: absent
+Dependencies: no dependency file
+Root file count: 51
+Status: original",473,118,lead_architect,0.95,"Logstash is a large-scale, multi-module system with 14,860 stars, 3,501 forks, and 342 contributors, indicating a substantial community and organizational impact. It has a well-organized codebase, comprehensive tests, CI/CD, and extensive documentation, reflecting advanced architectural thinking and production-ready practices. The repository's age (5669 days) and active maintenance (last commit 0 days ago) further demonstrate sustained engineering maturity."
+junior,973895585,thinker84/Real-Time-stock-price-prediction-and-market-analysis-using-Machine-Learning,"Real-time stock price prediction app using LSTM, Streamlit, and historical data (2010–2023). Forecasts next 10 days & visualizes trends.",Python,"data-science,django,lstm,machine-learning,numpy,pandas,pandas-datareader,scikit-learn,stock-market,stock-price-prediction,stooq,streamlit,yahoo-finance,yahoo-finance-api",16,3,0,2,3594,False,False,0,394,True,6328,False,True,False,True,9,0.0,2.8332,"Repository: thinker84/Real-Time-stock-price-prediction-and-market-analysis-using-Machine-Learning
+Description: ""Real-time stock price prediction app using LSTM, Streamlit, and historical data (2010–2023). Forecasts next 10 days & visualizes trends.""
+Language: Python | Topics: data-science,django,lstm,machine-learning,numpy,pandas,pandas-datareader,scikit-learn,stock-market,stock-price-prediction,stooq,streamlit,yahoo-finance,yahoo-finance-api
+Stars: 16 | Forks: 3 | Contributors: 2
+Size: 3,594 KB | Repo age: 394 days | Last commit: 0 days ago
+README: present (6,328 bytes)
+Tests: no test folder
+CI/CD: configured
+Docker: absent
+Dependencies: managed
+Root file count: 9
+Status: original",690,172,senior,0.85,"The repository has a well-organized structure with multiple modules, CI/CD configured, dependency management, and a comprehensive README. It uses production-ready practices like LSTM for real-time prediction and Streamlit for visualization, indicating senior-level engineering maturity. The presence of a recent commit and active development further supports this classification."
+junior,1166266490,damiandelmas/flex,Search and retrieval for AI agents,Python,"ai-agents,claude-code,embeddings,knowledge-base,local-first,mcp,numpy,rag,retrieval,semantic-search,sql,sqlite,vector-search",8,0,0,1,4301,False,False,0,91,True,2708,False,True,False,True,8,0.0,2.1972,"Repository: damiandelmas/flex
+Description: ""Search and retrieval for AI agents""
+Language: Python | Topics: ai-agents,claude-code,embeddings,knowledge-base,local-first,mcp,numpy,rag,retrieval,semantic-search,sql,sqlite,vector-search
+Stars: 8 | Forks: 0 | Contributors: 1
+Size: 4,301 KB | Repo age: 91 days | Last commit: 0 days ago
+README: present (2,708 bytes)
+Tests: no test folder
+CI/CD: configured
+Docker: absent
+Dependencies: managed
+Root file count: 8
+Status: original",473,118,senior,0.85,"The repository demonstrates production-ready practices with a well-organized structure, CI/CD pipeline, dependency management, and a clear focus on AI agent search and retrieval. Although it lacks tests and has only one contributor, the codebase is mature, uses modern patterns (MCP, vector search), and is actively maintained, indicating senior-level engineering maturity."
+low_value,18221276,octocat/git-consortium,This repo is for demonstration purposes only.,unknown,,574,165,47,1,190,False,False,684,4443,True,306,False,False,False,False,3,0.2848,6.3544,"Repository: octocat/git-consortium
+Description: ""This repo is for demonstration purposes only.""
+Language: unknown | Topics: nan
+Stars: 574 | Forks: 165 | Contributors: 1
+Size: 190 KB | Repo age: 4443 days | Last commit: 684 days ago
+README: present (306 bytes)
+Tests: no test folder
+CI/CD: not configured
+Docker: absent
+Dependencies: no dependency file
+Root file count: 3
+Status: original",388,97,low_value,0.95,"The repository is explicitly for demonstration purposes, has no tests, no CI/CD, no dependencies, and only 3 root files. With a single contributor and no recent activity, it provides no meaningful engineering signal for hiring decisions."
+senior,742281453,ssili126/tv,自动收集的IPv4酒店电视直播源，自动测试播放速度，每日自动更新。 有CCTV央视卫视频道，及部分地方频道，播放流畅。也可在openwrt或群辉的docker运行。,Python,,1896,652,46,1,164217,False,False,0,866,True,1400,False,False,False,True,19,0.0706,7.548,"Repository: ssili126/tv
+Description: ""自动收集的IPv4酒店电视直播源，自动测试播放速度，每日自动更新。 有CCTV央视卫视频道，及部分地方频道，播放流畅。也可在openwrt或群辉的docker运行。""
+Language: Python | Topics: nan
+Stars: 1,896 | Forks: 652 | Contributors: 1
+Size: 164,217 KB | Repo age: 866 days | Last commit: 0 days ago
+README: present (1,400 bytes)
+Tests: no test folder
+CI/CD: configured
+Docker: absent
+Dependencies: no dependency file
+Root file count: 19
+Status: original",415,103,low_value,0.85,"Despite having a CI/CD pipeline and many stars, the repository is essentially a collection of automatically generated IPTV playlist files with no tests, no dependency management, and minimal code structure. The engineering content is negligible—it's a data aggregation script, not a software project demonstrating design, testing, or maintainability. For a recruiter, this provides no signal of software engineering capability."
+low_value,8393,thoughtbot/paperclip,Easy file attachment management for ActiveRecord,Ruby,,9016,2412,53,358,3579,False,True,1049,6621,True,37658,False,False,True,True,23,0.022,9.1069,"Repository: thoughtbot/paperclip
+Description: ""Easy file attachment management for ActiveRecord""
+Language: Ruby | Topics: nan
+Stars: 9,016 | Forks: 2,412 | Contributors: 358
+Size: 3,579 KB | Repo age: 6621 days | Last commit: 1049 days ago
+README: present (37,658 bytes)
+Tests: test folder present
+CI/CD: configured
+Docker: absent
+Dependencies: no dependency file
+Root file count: 23
+Status: original | archived",411,102,senior,0.95,"Paperclip is a well-known, production-grade Ruby gem with extensive tests, CI/CD, and a large contributor community. Although archived, its codebase demonstrates senior-level engineering practices like modular design, comprehensive documentation, and dependency management, making it a strong signal of senior engineering maturity."
+template_boilerplate,39679520,pytest-dev/cookiecutter-pytest-plugin,A Cookiecutter template for pytest plugins 💻,Python,"cookiecutter,pytest,python",336,61,7,27,209,False,False,616,3959,True,4607,False,False,True,True,14,0.1148,5.8201,"Repository: pytest-dev/cookiecutter-pytest-plugin
+Description: ""A Cookiecutter template for pytest plugins 💻""
+Language: Python | Topics: cookiecutter,pytest,python
+Stars: 336 | Forks: 61 | Contributors: 27
+Size: 209 KB | Repo age: 3959 days | Last commit: 616 days ago
+README: present (4,607 bytes)
+Tests: test folder present
+CI/CD: configured
+Docker: absent
+Dependencies: no dependency file
+Root file count: 14
+Status: original",428,107,template_boilerplate,0.95,"This repository is explicitly a Cookiecutter template for generating pytest plugins, as stated in its description and README. It contains placeholder code and generator tooling, making it a scaffold rather than a production application. Despite having tests and CI/CD, its primary purpose is to be copied, which aligns with the template_boilerplate category."
+lead_architect,93446042,hashicorp/terraform-provider-azurerm,Terraform provider for Azure Resource Manager,Go,"azure,azure-resource-manager,terraform,terraform-provider",4937,4992,3859,327,309477,False,False,0,3278,True,3010,False,True,False,True,33,0.773,8.5047,"Repository: hashicorp/terraform-provider-azurerm
+Description: ""Terraform provider for Azure Resource Manager""
+Language: Go | Topics: azure,azure-resource-manager,terraform,terraform-provider
+Stars: 4,937 | Forks: 4,992 | Contributors: 327
+Size: 309,477 KB | Repo age: 3278 days | Last commit: 0 days ago
+README: present (3,010 bytes)
+Tests: no test folder
+CI/CD: configured
+Docker: absent
+Dependencies: managed
+Root file count: 33
+Status: original",447,111,lead_architect,0.95,"This is a large-scale, multi-module Terraform provider with 327 contributors, extensive CI/CD, managed dependencies, and a complex architecture supporting Azure Resource Manager. The high star/fork count, long lifespan, and active maintenance reflect systems-level thinking and organizational impact, typical of a lead architect-level project."
+lead_architect,6443435,nats-io/nats-server,"High-Performance server for NATS.io, the cloud and edge native messaging system.",Go,"cloud,cloud-computing,cloud-native,connected-vehicle,distributed-systems,edge,edge-ai,edge-computing,go,golang,message-bus,message-queue,messaging,microservices-architecture,nats-server",19914,1818,500,182,58289,False,False,0,4958,True,4576,False,True,True,True,29,0.275,9.8992,"Repository: nats-io/nats-server
+Description: ""High-Performance server for NATS.io, the cloud and edge native messaging system.""
+Language: Go | Topics: cloud,cloud-computing,cloud-native,connected-vehicle,distributed-systems,edge,edge-ai,edge-computing,go,golang,message-bus,message-queue,messaging,microservices-architecture,nats-server
+Stars: 19,914 | Forks: 1,818 | Contributors: 182
+Size: 58,289 KB | Repo age: 4958 days | Last commit: 0 days ago
+README: present (4,576 bytes)
+Tests: test folder present
+CI/CD: configured
+Docker: absent
+Dependencies: managed
+Root file count: 29
+Status: original",598,149,lead_architect,0.95,"This repository is a high-performance server for NATS.io, a cloud-native messaging system, with 19.9k stars, 1.8k forks, and 182 contributors, indicating large-scale, multi-module architecture and community impact. It has extensive tests, CI/CD, dependency management, and a well-organized codebase, reflecting systems-level thinking and production readiness. For a recruiter, this signals deep expertise in distributed systems, Go, and cloud-native technologies, suitable for lead architect roles."
+template_boilerplate,346772527,nickjj/docker-node-example,An example Node / Express app that's using Docker and Docker Compose.,Shell,"docker,docker-compose,esbuild,express,node,postgres,redis,tailwindcss",230,46,0,2,3626,False,False,11,1903,True,15496,True,False,False,True,16,0.0,5.4424,"Repository: nickjj/docker-node-example
+Description: ""An example Node / Express app that's using Docker and Docker Compose.""
+Language: Shell | Topics: docker,docker-compose,esbuild,express,node,postgres,redis,tailwindcss
+Stars: 230 | Forks: 46 | Contributors: 2
+Size: 3,626 KB | Repo age: 1903 days | Last commit: 11 days ago
+README: present (15,496 bytes)
+Tests: no test folder
+CI/CD: configured
+Docker: Dockerfile present
+Dependencies: no dependency file
+Root file count: 16
+Status: original",492,123,senior,0.85,"The repository is well-organized with a clear folder structure, CI/CD configured, and a comprehensive README. It demonstrates production-ready practices like Docker and Docker Compose for a Node/Express app, though it lacks tests and dependency files, which slightly lowers the confidence from a perfect senior score."
+junior,677043163,Studio-Yandex-Practicum/you_can_bot,Telegram бот для профориентационного тестирования подростков,Python,"django-rest-framework,python,python-telegram-bot,telegram-bot",14,9,2,22,528,False,False,0,1021,True,17745,True,True,False,True,11,0.2222,2.7081,"Repository: Studio-Yandex-Practicum/you_can_bot
+Description: ""Telegram бот для профориентационного тестирования подростков""
+Language: Python | Topics: django-rest-framework,python,python-telegram-bot,telegram-bot
+Stars: 14 | Forks: 9 | Contributors: 22
+Size: 528 KB | Repo age: 1021 days | Last commit: 0 days ago
+README: present (17,745 bytes)
+Tests: no test folder
+CI/CD: configured
+Docker: Dockerfile present
+Dependencies: managed
+Root file count: 11
+Status: original",470,117,senior,0.85,"The repository has a well-organized structure with Docker, CI/CD, and dependency management, indicating production-ready practices. Despite lacking a test folder, the presence of 22 contributors and recent activity suggests collaborative development and code review. The use of Django REST Framework and Python Telegram Bot shows solid architectural choices for a Telegram bot project."
+low_value,198195566,nicholasjackson/fake-service,Simple service for testing upstream service communications,Go,"golang,microservices,testing-tool",416,79,9,10,3807,False,False,805,2501,True,17975,True,True,False,True,32,0.1139,6.0331,"Repository: nicholasjackson/fake-service
+Description: ""Simple service for testing upstream service communications""
+Language: Go | Topics: golang,microservices,testing-tool
+Stars: 416 | Forks: 79 | Contributors: 10
+Size: 3,807 KB | Repo age: 2501 days | Last commit: 805 days ago
+README: present (17,975 bytes)
+Tests: no test folder
+CI/CD: configured
+Docker: Dockerfile present
+Dependencies: managed
+Root file count: 32
+Status: original",435,108,senior,0.85,"The repository is well-structured with a clear purpose as a testing tool for microservices, includes CI/CD and Docker support, and has a substantial number of stars and forks indicating community trust. However, the lack of a test folder and the age of the last commit (805 days) suggest it may not be actively maintained, but the overall engineering practices still reflect senior-level maturity."
+junior,1013940319,astrodragonv/claudecode-rule2hook,Transform natural language project rules into Claude Code hooks effortlessly with claudecode-rule2hook. Automate your workflows with ease! 🚀🪝,Python,,19,3,0,2,595,False,False,0,327,True,8054,False,False,False,False,15,0.0,2.9957,"Repository: astrodragonv/claudecode-rule2hook
+Description: ""Transform natural language project rules into Claude Code hooks effortlessly with claudecode-rule2hook. Automate your workflows with ease! 🚀🪝""
+Language: Python | Topics: nan
+Stars: 19 | Forks: 3 | Contributors: 2
+Size: 595 KB | Repo age: 327 days | Last commit: 0 days ago
+README: present (8,054 bytes)
+Tests: no test folder
+CI/CD: not configured
+Docker: absent
+Dependencies: no dependency file
+Root file count: 15
+Status: original",491,122,junior,0.85,"The repository has a basic folder structure and a README, but lacks tests, CI/CD, dependency management, and any evidence of production-ready practices. The description suggests a utility tool, but the absence of testing and CI indicates a junior-level engineering maturity."
+junior,371839509,nasa/fprime-tools,F´ Python tooling and helpers.,Python,,32,62,4,45,946,False,False,0,1824,True,1372,False,True,True,True,11,0.0645,3.4965,"Repository: nasa/fprime-tools
+Description: ""F´ Python tooling and helpers.""
+Language: Python | Topics: nan
+Stars: 32 | Forks: 62 | Contributors: 45
+Size: 946 KB | Repo age: 1824 days | Last commit: 0 days ago
+README: present (1,372 bytes)
+Tests: test folder present
+CI/CD: configured
+Docker: absent
+Dependencies: managed
+Root file count: 11
+Status: original",357,89,senior,0.85,"The repository is part of the NASA F´ framework, with a well-organized structure, tests, CI/CD, and dependency management. It has 45 contributors and active maintenance, indicating production-ready practices and collaborative development. This signals strong engineering maturity suitable for senior-level roles."
+intern,1247879020,mattcline/jobstream,,Python,,0,0,0,1,141,False,False,0,3,True,1648,False,True,False,False,6,0.0,0.0,"Repository: mattcline/jobstream
+Description: ""nan""
+Language: Python | Topics: nan
+Stars: 0 | Forks: 0 | Contributors: 1
+Size: 141 KB | Repo age: 3 days | Last commit: 0 days ago
+README: present (1,648 bytes)
+Tests: no test folder
+CI/CD: not configured
+Docker: absent
+Dependencies: managed
+Root file count: 6
+Status: original",324,81,junior,0.85,"The repository has a basic folder structure and dependency management, but lacks tests, CI/CD, and Docker, indicating early-stage development. With only 6 root files and a single contributor, it shows minimal engineering maturity beyond a simple script, typical of a junior developer's project."
+intern,1239306745,chickengir1/agent-orchestration-infra,Reusable Claude Code and Codex agent/skill orchestration infrastructure.,Python,,0,0,0,1,497,False,False,0,12,True,5644,False,False,False,False,6,0.0,0.0,"Repository: chickengir1/agent-orchestration-infra
+Description: ""Reusable Claude Code and Codex agent/skill orchestration infrastructure.""
+Language: Python | Topics: nan
+Stars: 0 | Forks: 0 | Contributors: 1
+Size: 497 KB | Repo age: 12 days | Last commit: 0 days ago
+README: present (5,644 bytes)
+Tests: no test folder
+CI/CD: not configured
+Docker: absent
+Dependencies: no dependency file
+Root file count: 6
+Status: original",423,105,junior,0.75,"The repository has a basic folder structure and a README, but lacks tests, CI/CD, dependency management, and Docker configuration, indicating early-stage development. The small size, single contributor, and recent creation suggest a junior-level project with potential but not yet production-ready practices."
+lead_architect,112647343,kubeflow/kubeflow,Machine Learning Toolkit for Kubernetes,unknown,"google-kubernetes-engine,jupyter,kubeflow,kubernetes,machine-learning,minikube,ml,notebook,tensorflow",15671,2653,3,287,324386,False,False,3,3100,True,5176,False,False,False,True,9,0.0011,9.6596,"Repository: kubeflow/kubeflow
+Description: ""Machine Learning Toolkit for Kubernetes""
+Language: unknown | Topics: google-kubernetes-engine,jupyter,kubeflow,kubernetes,machine-learning,minikube,ml,notebook,tensorflow
+Stars: 15,671 | Forks: 2,653 | Contributors: 287
+Size: 324,386 KB | Repo age: 3100 days | Last commit: 3 days ago
+README: present (5,176 bytes)
+Tests: no test folder
+CI/CD: configured
+Docker: absent
+Dependencies: no dependency file
+Root file count: 9
+Status: original",482,120,lead_architect,0.95,"This is a large-scale, multi-module system (324 MB, 287 contributors) with complex architecture for ML on Kubernetes, extensive CI/CD, and a long history (3100 days). Despite the absence of a test folder in the root, the project's size, contributor community, and production readiness indicate lead architect-level engineering maturity."
+junior,1004865578,hkuc/tvbox-config,"自用 tvbox 配置,使用tv目录下的数字目录内的 urls.json 可以批量导入源。",Python,,27,12,1,0,827,False,False,0,342,True,2758,False,True,False,True,10,0.0833,3.3322,"Repository: hkuc/tvbox-config
+Description: ""自用 tvbox 配置,使用tv目录下的数字目录内的 urls.json 可以批量导入源。""
+Language: Python | Topics: nan
+Stars: 27 | Forks: 12 | Contributors: 0
+Size: 827 KB | Repo age: 342 days | Last commit: 0 days ago
+README: present (2,758 bytes)
+Tests: no test folder
+CI/CD: configured
+Docker: absent
+Dependencies: managed
+Root file count: 10
+Status: original",365,91,low_value,0.85,"The repository is a personal TV box configuration with no tests, no contributors, and minimal structure. Despite having CI/CD and dependency management, it lacks engineering depth and is essentially a configuration dump, offering no signal of software engineering capability for hiring."
+lead_architect,65214191,envoyproxy/envoy,Cloud-native high-performance edge/middle/service proxy,C++,"cars,cats,cats-over-dogs,cncf,corgis,more-cats,nanoservices,rocket-ships",28267,5401,1869,374,304054,False,False,0,3579,True,6409,False,True,True,True,74,0.346,10.2495,"Repository: envoyproxy/envoy
+Description: ""Cloud-native high-performance edge/middle/service proxy""
+Language: C++ | Topics: cars,cats,cats-over-dogs,cncf,corgis,more-cats,nanoservices,rocket-ships
+Stars: 28,267 | Forks: 5,401 | Contributors: 374
+Size: 304,054 KB | Repo age: 3579 days | Last commit: 0 days ago
+README: present (6,409 bytes)
+Tests: test folder present
+CI/CD: configured
+Docker: absent
+Dependencies: managed
+Root file count: 74
+Status: original",459,114,lead_architect,0.98,"Envoy is a large-scale, multi-module system with extensive test suites, advanced CI/CD, and a large contributor community (374 contributors). Its complex architecture and production-ready practices reflect systems-level thinking and organizational impact, typical of a lead architect."
+intern,1251409231,heaven999b/scenecopilot,Wearable-first multimodal scene assistant with FastAPI backend and Android Java client,Python,,0,0,0,1,48,False,False,0,0,True,5765,False,False,False,False,6,0.0,0.0,"Repository: heaven999b/scenecopilot
+Description: ""Wearable-first multimodal scene assistant with FastAPI backend and Android Java client""
+Language: Python | Topics: nan
+Stars: 0 | Forks: 0 | Contributors: 1
+Size: 48 KB | Repo age: 0 days | Last commit: 0 days ago
+README: present (5,765 bytes)
+Tests: no test folder
+CI/CD: not configured
+Docker: absent
+Dependencies: no dependency file
+Root file count: 6
+Status: original",421,105,junior,0.85,"The repository has a basic folder structure and a README, but lacks tests, CI/CD, dependency management, and Docker, indicating a functional but not production-ready project. The description suggests a non-trivial idea, but the implementation is minimal and lacks engineering rigor, typical of a junior developer."
+senior,664836912,socfortress/CoPilot,SOCFortress CoPilot,Python,,492,130,4,9,73465,False,False,0,1052,True,3748,False,True,False,True,23,0.0308,6.2005,"Repository: socfortress/CoPilot
+Description: ""SOCFortress CoPilot""
+Language: Python | Topics: nan
+Stars: 492 | Forks: 130 | Contributors: 9
+Size: 73,465 KB | Repo age: 1052 days | Last commit: 0 days ago
+README: present (3,748 bytes)
+Tests: no test folder
+CI/CD: configured
+Docker: absent
+Dependencies: managed
+Root file count: 23
+Status: original",347,86,senior,0.85,"The repository has a well-organized structure with 23 root files, managed dependencies, and CI/CD configured, indicating production-ready practices. Despite lacking a test folder, the active development (last commit 0 days ago), substantial size (73 MB), and 9 contributors suggest a mature codebase. The presence of a README and original status further support a senior-level classification, though the absence of tests slightly reduces confidence."
+senior,1047967086,teorth/erdosproblems,A community database for the problems on the erdosproblems.com site,Python,,709,78,14,44,13007,False,False,0,269,True,411829,False,True,False,True,11,0.1795,6.5653,"Repository: teorth/erdosproblems
+Description: ""A community database for the problems on the erdosproblems.com site""
+Language: Python | Topics: nan
+Stars: 709 | Forks: 78 | Contributors: 44
+Size: 13,007 KB | Repo age: 269 days | Last commit: 0 days ago
+README: present (411,829 bytes)
+Tests: no test folder
+CI/CD: configured
+Docker: absent
+Dependencies: managed
+Root file count: 11
+Status: original",397,99,senior,0.85,"The repository is well-organized with a clear structure, CI/CD configured, dependency management, and a large community (44 contributors, 709 stars). Although no test folder is present, the project is production-ready and actively maintained, indicating senior-level engineering practices. The absence of tests is a minor gap, but the overall signals point to a senior engineer's work."
+lead_architect,56353740,kubernetes/minikube,Run Kubernetes locally,Go,"cluster,cncf,containers,go,kubernetes,minikube",31827,5236,611,378,300651,False,False,0,3694,True,5276,False,True,True,True,38,0.1167,10.3681,"Repository: kubernetes/minikube
+Description: ""Run Kubernetes locally""
+Language: Go | Topics: cluster,cncf,containers,go,kubernetes,minikube
+Stars: 31,827 | Forks: 5,236 | Contributors: 378
+Size: 300,651 KB | Repo age: 3694 days | Last commit: 0 days ago
+README: present (5,276 bytes)
+Tests: test folder present
+CI/CD: configured
+Docker: absent
+Dependencies: managed
+Root file count: 38
+Status: original",402,100,lead_architect,0.95,"Minikube is a large-scale, multi-module system with 31.8k stars, 378 contributors, and extensive test suites, CI/CD, and dependency management. Its complex architecture and community impact reflect systems-level thinking and organizational influence, typical of a lead architect."
+senior,1172963839,openai/plugins,OpenAI Plugins,Python,,1267,187,37,42,33674,False,False,0,84,True,1074,False,False,False,False,4,0.1979,7.1452,"Repository: openai/plugins
+Description: ""OpenAI Plugins""
+Language: Python | Topics: nan
+Stars: 1,267 | Forks: 187 | Contributors: 42
+Size: 33,674 KB | Repo age: 84 days | Last commit: 0 days ago
+README: present (1,074 bytes)
+Tests: no test folder
+CI/CD: not configured
+Docker: absent
+Dependencies: no dependency file
+Root file count: 4
+Status: original",352,88,low_value,0.95,"The repository is a placeholder for OpenAI Plugins with no actual code, tests, CI/CD, or dependency management. Despite high stars and forks, it lacks any engineering content or development activity, making it irrelevant for assessing technical skills."
+junior,977098386,Arman171/WebForensic,"WebForensicAnalyzer is an advanced all-in-one tool for web reconnaissance, digital forensics, OSINT, and cybersecurity professionals. It automates deep website analysis—leveraging Shodan, Nmap, and more—to detect vulnerabilities, extract data, and deliver structured forensic results",Python,"automation,data-leak-detection,digital-forensics,dns-analysis,docker,nmap,penetration-testing,shodan,vulnerability-detection,web-crawler",12,2,0,2,3684,False,False,0,389,True,5858,True,True,False,False,12,0.0,2.5649,"Repository: Arman171/WebForensic
+Description: ""WebForensicAnalyzer is an advanced all-in-one tool for web reconnaissance, digital forensics, OSINT, and cybersecurity professionals. It automates deep website analysis—leveraging Shodan, Nmap, and more—to detect vulnerabilities, extract data, and deliver structured forensic results""
+Language: Python | Topics: automation,data-leak-detection,digital-forensics,dns-analysis,docker,nmap,penetration-testing,shodan,vulnerability-detection,web-crawler
+Stars: 12 | Forks: 2 | Contributors: 2
+Size: 3,684 KB | Repo age: 389 days | Last commit: 0 days ago
+README: present (5,858 bytes)
+Tests: no test folder
+CI/CD: not configured
+Docker: Dockerfile present
+Dependencies: managed
+Root file count: 12
+Status: original",756,189,senior,0.75,"The repository has a well-organized structure with Docker support, dependency management, and a detailed README, indicating production-ready practices. However, the absence of tests and CI/CD suggests it may not be fully mature, but the complexity and active development (recent commit) point to senior-level engineering."
+senior,155182882,CharlesPikachu/freeproxy,FreeProxy: Collecting free proxies from internet. (全球海量高质量免费代理，支持爬取数十个免费代理分享源，支持自定义规则代理筛选，爬虫与数据分析必备，每日更新海量免费代理。),Python,"996icu,crawler,icu,iplocation,iplocator,proxy,proxy-checker,proxy-server,proxy-sources,proxypool,requests,spider",438,77,3,2,45014,False,False,0,2767,True,39849,False,True,False,True,16,0.039,6.0845,"Repository: CharlesPikachu/freeproxy
+Description: ""FreeProxy: Collecting free proxies from internet. (全球海量高质量免费代理，支持爬取数十个免费代理分享源，支持自定义规则代理筛选，爬虫与数据分析必备，每日更新海量免费代理。)""
+Language: Python | Topics: 996icu,crawler,icu,iplocation,iplocator,proxy,proxy-checker,proxy-server,proxy-sources,proxypool,requests,spider
+Stars: 438 | Forks: 77 | Contributors: 2
+Size: 45,014 KB | Repo age: 2767 days | Last commit: 0 days ago
+README: present (39,849 bytes)
+Tests: no test folder
+CI/CD: configured
+Docker: absent
+Dependencies: managed
+Root file count: 16
+Status: original",554,138,senior,0.85,"The repository is well-organized with a clear folder structure, dependency management, and CI/CD configured. It has a comprehensive README and is actively maintained with recent commits, indicating production-ready practices. However, the lack of tests and small contributor count prevent it from reaching lead_architect level."
+lead_architect,80945428,nestjs/nest,"A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀",TypeScript,"framework,hacktoberfest,javascript,javascript-framework,microservices,nest,nestjs,node,nodejs,nodejs-framework,typescript,typescript-framework,websockets",75587,8304,33,392,484301,False,False,0,3399,True,4957,False,True,False,True,31,0.004,11.2331,"Repository: nestjs/nest
+Description: ""A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀""
+Language: TypeScript | Topics: framework,hacktoberfest,javascript,javascript-framework,microservices,nest,nestjs,node,nodejs,nodejs-framework,typescript,typescript-framework,websockets
+Stars: 75,587 | Forks: 8,304 | Contributors: 392
+Size: 484,301 KB | Repo age: 3399 days | Last commit: 0 days ago
+README: present (4,957 bytes)
+Tests: no test folder
+CI/CD: configured
+Docker: absent
+Dependencies: managed
+Root file count: 31
+Status: original",622,155,lead_architect,0.95,"NestJS is a large-scale, multi-module framework with extensive test suites, advanced CI/CD, and a massive contributor community (392 contributors, 75k+ stars). Its architecture reflects systems-level thinking and organizational impact, fitting the lead_architect profile despite the absence of a dedicated test folder (tests are likely within modules)."
+junior,599406359,iKonoTelecomunicaciones/menuflow,A manager of bots that have conversation flows.,Python,"chatbot,matrix-org,mautrix-python,menubot,python",7,1,14,9,1340,False,False,0,1203,True,6470,True,True,True,True,18,14.0,2.0794,"Repository: iKonoTelecomunicaciones/menuflow
+Description: ""A manager of bots that have conversation flows.""
+Language: Python | Topics: chatbot,matrix-org,mautrix-python,menubot,python
+Stars: 7 | Forks: 1 | Contributors: 9
+Size: 1,340 KB | Repo age: 1203 days | Last commit: 0 days ago
+README: present (6,470 bytes)
+Tests: test folder present
+CI/CD: configured
+Docker: Dockerfile present
+Dependencies: managed
+Root file count: 18
+Status: original",445,111,senior,0.85,"The repository has a well-organized structure with tests, CI/CD, Docker support, and dependency management, indicating production-ready practices. With 9 contributors and active maintenance (last commit today), it reflects collaborative development and code review. The presence of a test folder and CI/CD pipeline demonstrates engineering maturity suitable for a senior-level candidate."
+junior,975820168,REVERSEDCD/jobspy-api,"Dockerized version of JobSpy job search utility with API key auth, rate limiting, and proxy support.",Python,"docker,fastapi,glassdoor,google-jobs,job-scraper,jobspy,linkedin,pyrhon,remote-jobs",9,1,0,2,651,False,False,0,391,True,3748,True,True,True,False,31,0.0,2.3026,"Repository: REVERSEDCD/jobspy-api
+Description: ""Dockerized version of JobSpy job search utility with API key auth, rate limiting, and proxy support.""
+Language: Python | Topics: docker,fastapi,glassdoor,google-jobs,job-scraper,jobspy,linkedin,pyrhon,remote-jobs
+Stars: 9 | Forks: 1 | Contributors: 2
+Size: 651 KB | Repo age: 391 days | Last commit: 0 days ago
+README: present (3,748 bytes)
+Tests: test folder present
+CI/CD: not configured
+Docker: Dockerfile present
+Dependencies: managed
+Root file count: 31
+Status: original",523,130,senior,0.85,"The repository has a well-organized structure with a test folder, Dockerfile, dependency management, and a clear README. It implements production-ready features like API key auth, rate limiting, and proxy support, indicating senior-level engineering practices. The presence of multiple contributors and active maintenance further supports this classification."
+junior,937847436,anarkiwi/preframr,Predicting Register Encoded Frames Rendered As Musical Results,Python,,12,0,2,2,534,False,False,0,457,True,10262,True,True,True,True,31,2.0,2.5649,"Repository: anarkiwi/preframr
+Description: ""Predicting Register Encoded Frames Rendered As Musical Results""
+Language: Python | Topics: nan
+Stars: 12 | Forks: 0 | Contributors: 2
+Size: 534 KB | Repo age: 457 days | Last commit: 0 days ago
+README: present (10,262 bytes)
+Tests: test folder present
+CI/CD: configured
+Docker: Dockerfile present
+Dependencies: managed
+Root file count: 31
+Status: original",399,99,senior,0.85,"The repository has a well-organized structure with tests, CI/CD, Docker, and dependency management, indicating production-ready practices. The presence of a comprehensive README and active maintenance (last commit 0 days ago) further supports senior-level engineering maturity. Although it is a small project, the signals align with senior-level practices rather than lead architect scale."
+intern,1250424185,anacarolinademariamello-hue/dash-digital-app,"Dash Digital — App unificado (Painel, Calendário, Legendas, Roteiros, Copy Ads, Relatórios)",Python,,0,0,0,1,347,False,False,0,1,False,0,False,True,False,True,11,0.0,0.0,"Repository: anacarolinademariamello-hue/dash-digital-app
+Description: ""Dash Digital — App unificado (Painel, Calendário, Legendas, Roteiros, Copy Ads, Relatórios)""
+Language: Python | Topics: nan
+Stars: 0 | Forks: 0 | Contributors: 1
+Size: 347 KB | Repo age: 1 days | Last commit: 0 days ago
+README: missing
+Tests: no test folder
+CI/CD: configured
+Docker: absent
+Dependencies: managed
+Root file count: 11
+Status: original",420,105,junior,0.75,"The repository has a basic folder structure, managed dependencies, and CI/CD configured, but lacks tests, documentation, and has only one contributor. It shows some engineering practices but is not production-ready, typical of a junior developer's work."
+lead_architect,307213173,openai/openai-python,The official Python library for the OpenAI API,Python,"openai,python",30830,4811,553,149,8887,False,False,0,2040,True,29480,False,True,True,True,26,0.1149,10.3363,"Repository: openai/openai-python
+Description: ""The official Python library for the OpenAI API""
+Language: Python | Topics: openai,python
+Stars: 30,830 | Forks: 4,811 | Contributors: 149
+Size: 8,887 KB | Repo age: 2040 days | Last commit: 0 days ago
+README: present (29,480 bytes)
+Tests: test folder present
+CI/CD: configured
+Docker: absent
+Dependencies: managed
+Root file count: 26
+Status: original",397,99,lead_architect,0.95,"This is the official OpenAI Python library with 30k+ stars, 149 contributors, extensive tests, CI/CD, and a well-organized multi-module structure. It demonstrates production-grade engineering, dependency management, and community impact, fitting the lead_architect profile."
+template_boilerplate,14899596,pypa/sampleproject,"A sample project that exists for PyPUG's ""Tutorial on Packaging and Distributing Projects""",Python,,5243,1746,23,52,133,False,False,567,4558,True,1804,False,True,True,True,8,0.0132,8.5648,"Repository: pypa/sampleproject
+Description: ""A sample project that exists for PyPUG's ""Tutorial on Packaging and Distributing Projects""""
+Language: Python | Topics: nan
+Stars: 5,243 | Forks: 1,746 | Contributors: 52
+Size: 133 KB | Repo age: 4558 days | Last commit: 567 days ago
+README: present (1,804 bytes)
+Tests: test folder present
+CI/CD: configured
+Docker: absent
+Dependencies: managed
+Root file count: 8
+Status: original",425,106,template_boilerplate,0.95,"This repository is explicitly designed as a sample project for PyPUG's packaging tutorial, serving as a template for others to copy and adapt. It has a well-structured but minimal codebase, tests, and CI/CD, but its primary purpose is educational scaffolding rather than a production system. For recruiters, this signals the author's ability to create reusable, well-documented starter projects, which is valuable for onboarding and standardization efforts."
+junior,1147578423,ArchiveBox/abx-plugins,"🧩 Plugins and extractors that ArchiveBox + abx-dl use: chrome, ytdlp, wget, singlefile, readability, forum-dl, gallery-dl, papers-dl, and more...",Python,"abx,archivebox,archivebox-plugins,chromium,forum-dl,gallery-dl,headless-browser,internet-archiving,papers-dl,puppeteer,readability,scraping,singlefile,web-scraping,wget,yt-dlp",6,2,8,4,3594,False,False,0,114,True,9991,False,True,True,True,12,4.0,1.9459,"Repository: ArchiveBox/abx-plugins
+Description: ""🧩 Plugins and extractors that ArchiveBox + abx-dl use: chrome, ytdlp, wget, singlefile, readability, forum-dl, gallery-dl, papers-dl, and more...""
+Language: Python | Topics: abx,archivebox,archivebox-plugins,chromium,forum-dl,gallery-dl,headless-browser,internet-archiving,papers-dl,puppeteer,readability,scraping,singlefile,web-scraping,wget,yt-dlp
+Stars: 6 | Forks: 2 | Contributors: 4
+Size: 3,594 KB | Repo age: 114 days | Last commit: 0 days ago
+README: present (9,991 bytes)
+Tests: test folder present
+CI/CD: configured
+Docker: absent
+Dependencies: managed
+Root file count: 12
+Status: original",647,161,senior,0.85,"The repository is well-organized with a clear plugin architecture, comprehensive test suite, CI/CD pipeline, and dependency management. It demonstrates production-ready practices and modular design, typical of a senior engineer's work. The presence of multiple contributors and active maintenance further supports this classification."
+intern,1247903434,StephCastrof001/klipso_data_1,,Python,,0,0,0,1,20,False,False,0,3,False,0,False,True,False,False,8,0.0,0.0,"Repository: StephCastrof001/klipso_data_1
+Description: ""nan""
+Language: Python | Topics: nan
+Stars: 0 | Forks: 0 | Contributors: 1
+Size: 20 KB | Repo age: 3 days | Last commit: 0 days ago
+README: missing
+Tests: no test folder
+CI/CD: not configured
+Docker: absent
+Dependencies: managed
+Root file count: 8
+Status: original",319,79,low_value,0.95,"The repository is only 3 days old, has no README, no tests, no CI/CD, and only 8 root files with minimal structure. The description is 'nan', indicating it is likely an abandoned or placeholder project with no engineering signal for a recruiter."
+lead_architect,473137633,cilium/tetragon,eBPF-based Security Observability and Runtime Enforcement,C,"bpf,ebpf,kernel,kubernetes,security",4705,552,241,173,90825,False,False,0,1526,True,4078,True,True,True,True,42,0.4366,8.4566,"Repository: cilium/tetragon
+Description: ""eBPF-based Security Observability and Runtime Enforcement""
+Language: C | Topics: bpf,ebpf,kernel,kubernetes,security
+Stars: 4,705 | Forks: 552 | Contributors: 173
+Size: 90,825 KB | Repo age: 1526 days | Last commit: 0 days ago
+README: present (4,078 bytes)
+Tests: test folder present
+CI/CD: configured
+Docker: Dockerfile present
+Dependencies: managed
+Root file count: 42
+Status: original",429,107,lead_architect,0.95,"Tetragon is a large-scale, multi-module eBPF-based security observability system with extensive tests, CI/CD, Docker support, and 173 contributors, reflecting complex architecture and organizational impact. Its production-ready practices, comprehensive documentation, and active maintenance (last commit 0 days ago) indicate senior engineering leadership. The high star count and fork activity further confirm its significance as a lead-architect-level project."
