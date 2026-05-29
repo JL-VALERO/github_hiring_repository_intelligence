@@ -1,0 +1,13 @@
+requests
+pandas
+numpy
+scikit-learn
+transformers
+torch
+datasets
+accelerate
+streamlit
+matplotlib
+seaborn
+plotly
+python-dotenv
